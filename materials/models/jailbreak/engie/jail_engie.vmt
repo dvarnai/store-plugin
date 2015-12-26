@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jailbreak/engie/jail_engie"
+	"$surfaceprop" "Flesh"
+}

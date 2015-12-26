@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\pedobear\bear"
+	"$bumpmap"     "models\pedobear\bear_normal"
+	"$model" 1
+	"$phong" "1"
+	"$lightwarptexture" "models\pedobear\lightwarp2"
+	"$halflambert" 1
+}

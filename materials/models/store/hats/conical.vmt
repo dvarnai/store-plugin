@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/store/hats/conical"
+	"$model" 1
+	"$nocull" 1
+}

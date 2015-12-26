@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jailbreak/warden/warden_body"
+	"$surfaceprop" "Flesh"
+}

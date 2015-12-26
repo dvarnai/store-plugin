@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gmod_tower/bman_helmet" // Texture still needs "ear" details and stuff
+	"$model" 1
+	"$halflambert" 1
+	"$phong" 1
+	"$phongexponent"   "25"
+	"$phongboost" "10"			
+	"$phongfresnelranges"	"[.1 .6 1.0]"
+}

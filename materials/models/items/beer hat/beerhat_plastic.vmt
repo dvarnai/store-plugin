@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\items\beer hat/BeerHat_Plastic"
+	
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" ".25"
+	"$lightwarptexture" "models\lightwarps\weapon_lightwarp"	
+	"$phongfresnelranges"	"[.25 .5 1]"
+	"$basemapalphaphongmask" "1"
+	$selfillum 0
+
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2"										// Boost for ambient cube component of rim lighting
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+
+	"Proxies"
+	{
+		"weapon_invis"
+		{
+		}
+
+	}
+}

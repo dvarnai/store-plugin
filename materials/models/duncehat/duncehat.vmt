@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\duncehat\duncehat"
+	"$model" 1
+	"$envmapmode" 1
+}

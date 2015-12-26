@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/store/hats/deku_scrub_mask_05"
+	"$bumpmap" "models/store/hats/deku_normal"
+	"$model" 1
+	"$nocull" 1
+}

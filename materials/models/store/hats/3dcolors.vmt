@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\store\hats\3dcolors"
+	"$model" 1
+	"$nocull" 1
+	"$translucent" 1
+}

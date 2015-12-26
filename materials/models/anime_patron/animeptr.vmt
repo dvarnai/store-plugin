@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\anime_patron\animeptr.vtf"
+	"$bumpmap"     "models\anime_patron\animeptr_n"
+	"$model" 1
+	"$phong" "1"
+	"$lightwarptexture" "models\anime_patron\lightwarp2"
+	"$halflambert" 1
+}

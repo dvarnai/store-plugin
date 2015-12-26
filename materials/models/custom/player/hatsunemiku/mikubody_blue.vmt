@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\custom\player\hatsunemiku\MikuBody_Blue"
+	"$bumpmap" "models\custom\player\hatsunemiku\MikuNormalMap"
+//	"$envmap" "env_cubemap"	
+//	"$envmapmask" "models\custom\player\hatsunemiku\MikuBodySpec"
+//	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$surfaceprop" "flesh"
+	"$selfillum" 1
+	"$model" 1
+	"$nocull" 1
+
+	"$phong" "1"
+//	"$phongexponenttexture" "models\custom\player\hatsunemiku\MikuBodySpec"
+	"$phongboost"	"20"
+	"$phongfresnelranges"	"[0.50 0.5 1]"
+	"$halflambert" "1"
+
+}

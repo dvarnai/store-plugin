@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gmod_tower/partyhat"
+	"$nocull" 1
+	
+	"$halflambert" 1
+	"$model" 1
+
+	"$phong" 1
+	"$phongexponent"   "25"
+	"$phongboost" "10"			
+	"$phongfresnelranges"	"[.1 .6 1.0]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "15"
+	"$rimlightboost" "1"
+}

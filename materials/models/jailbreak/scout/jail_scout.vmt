@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jailbreak/scout/jail_scout"
+	"$surfaceprop" "Flesh"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\store\hats\afro_pick"
+	"$model" 1
+	"$translucent" 1
+}

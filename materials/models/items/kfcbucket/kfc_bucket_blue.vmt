@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\items\kfcbucket\kfc_bucket_blue.vtf"
+
+	"$phong" "1"
+	"$phongexponent" "95"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.25 1 4]"
+	"$basemapalphaphongmask" "1"
+	"$lightwarptexture" "models\lightwarps\weapon_lightwarp"	
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "2"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2"									// Boost for ambient cube component of rim lighting
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+
+	"Proxies"
+	{
+		"weapon_invis"
+		{
+		}
+
+	}
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\smurffff\smurffff"
+	"$bumpmap"     "models\smurffff\smurffff_n"
+	"$model" 1
+	"$phong" "1"
+	"$lightwarptexture" "models\sentry_hat\lightwarp2"
+	"$halflambert" 1
+}

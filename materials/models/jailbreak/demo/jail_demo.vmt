@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jailbreak/demo/jail_demo"
+	"$surfaceprop" "Flesh"
+}

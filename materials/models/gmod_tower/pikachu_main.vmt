@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\gmod_tower/Pikachu_main"
+	"$bumpmap" "effects/flat_normal"
+                "$model" 1
+	"$halflambert" 1
+	"$phong" "1"
+ 	"$phongexponent" 1
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.03 0.015 0.01]"
+}

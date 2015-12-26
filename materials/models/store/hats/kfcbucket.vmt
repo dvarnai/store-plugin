@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/store/hats/kfcbucket"
+	"$model" 1
+	"$phong" "1"
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}

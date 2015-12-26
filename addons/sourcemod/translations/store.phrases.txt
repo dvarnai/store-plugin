@@ -1,0 +1,637 @@
+﻿"Phrases"
+{
+	"You dont have permission"
+	{
+		"en" "You don't have permission to access this."
+		"hu" "Nincs jogosultságod ehhez."
+	}
+	
+	"Inventory hasnt been fetched"
+	{
+		"en" "Please wait. Your inventory hasn't been fetched yet."
+		"hu" "Várj egy kicsit. A tárgyaid még nem töltöttek be."
+	}
+	
+	"Item Bought"
+	{
+		"#format" "{1:s}"
+		"en" "{1}"
+		"hu" "{1}"
+	}
+	
+	"Item Available"
+	{
+		"#format" "{1:s},{2:d}"
+		"en" "{1} ({2})"
+		"hu" "{1} ({2})"
+	}
+
+	"Item Plan Available"
+	{
+		"#format" "{1:s}"
+		"en" "{1} (Choose a plan)"
+		"hu" "{1} (Válassz időszakot)"
+	}
+	
+	"Item Equipped"
+	{
+		"#format" "{1:s}"
+		"en" "{1} [EQUIPPED]"
+		"hu" "{1} [FELVÉVE]"
+	}
+	
+	"Item Equip"
+	{
+		"en" "Equip this item"
+		"hu" "Tárgy felvétele"
+	}
+	
+	"Item Unequip"
+	{
+		"en" "Unequip"
+		"hu" "Tárgy levétele"
+	}
+	
+	"Item Use"
+	{
+		"en" "Use this item"
+		"hu" "Tárgy használata"
+	}
+	
+	"Item Sell"
+	{
+		"#format" "{1:d}"
+		"en" "Sell for {1}"
+		"hu" "Eladás {1} kreditért"
+	}
+	
+	"Item Gift"
+	{
+		"en" "Gift this item"
+		"hu" "Tárgy elajándékozása"
+	}
+	
+	"Title Store"
+	{
+		"en" "Store Menu"
+		"hu" "Bolt Menü"
+	}
+	
+	"Title Credits"
+	{
+		"#format" "{1:d}"
+		"en" "Credits: {1}"
+		"hu" "Kreditek: {1}"
+	}
+	
+	"Title Expiration"
+	{
+		"#format" "{1:d},{2:d}"
+		"en" "Expires in {1}d {2}h"
+		"hu" "Lejár {1}n {2}ó múlva"
+	}
+
+	"Title Gift"
+	{
+		"en" "Choose a player to send gift to"
+		"hu" "Játékos kiválasztása ajándékozáshoz"
+	}
+	
+	"Gift Player Left"
+	{
+		"en" "Selected player has already left the game."
+		"hu" "A kiválasztott játékos már elhagyta a játékot."
+	}
+	
+	"Gift No Players"
+	{
+		"en" "There's noone you can gift this item to."
+		"hu" "Nincs senki akinek odatudnád adni ezt a tárgyat."
+	}
+	
+	"Chat Bought Item"
+	{
+		"#format" "{1:s},{2:t}"
+		"en" "You have bought a {HIGHLIGHT}{1} {2}{NORMAL}."
+		"hu" "A következőt vetted: {HIGHLIGHT}{1} {2}{NORMAL}."
+	}
+	
+	"Chat Sold Item"
+	{
+		"#format" "{1:s},{2:t}"
+		"en" "You have sold a {HIGHLIGHT}{1} {2}{NORMAL}."
+		"hu" "A következőt adtad el: {HIGHLIGHT}{1} {2}{NORMAL}."
+	}
+	
+	"Chat Gift Item Sent"
+	{
+		"#format" "{1:s},{2:s},{3:t}"
+		"en" "You have sent {HIGHLIGHT}{1}{NORMAL} a {HIGHLIGHT}{2} {3}{NORMAL} as a gift."
+		"hu" "A következőt küldted: {HIGHLIGHT}{2} {3}{NORMAL} neki: {HIGHLIGHT}{1}{NORMAL}."
+	}
+	
+	"Chat Gift Item Received"
+	{
+		"#format" "{1:s},{2:s},{3:t}"
+		"en" "{HIGHLIGHT}{1}{NORMAL} has sent you a {HIGHLIGHT}{2} {3}{NORMAL} as a gift."
+		"hu" "{HIGHLIGHT}{1}{NORMAL} a következőt küldte neked: {HIGHLIGHT}{2} {3}{NORMAL}."
+	}
+	
+	"Credit Gift Disabled"
+	{
+		"en" "Credit gifting is disabled on this server."
+		"hu" "A szerveren a kreditek ajándékozása ki van kapcsolva."
+	}
+	
+	"Credit Invalid Amount"
+	{
+		"en" "Invalid amount of credits entered."
+		"hu" "Hibás összeget adtál meg."
+	}
+	
+	"Credit Not Enough"
+	{
+		"en" "You don't have enough credits to buy this."
+		"hu" "Nincs elég kredited ehhez."
+	}
+
+	"Credit Too Many Matches"
+	{
+		"en" "More than one client were found."
+		"hu" "Több mint egy játékos van ilyen névvel."
+	}
+	
+	"Credit No Match"
+	{
+		"en" "No player was found."
+		"hu" "Nincs ilyen játékos."
+	}
+	
+	"Credit Gift Sent"
+	{
+		"#format" "{1:d},{2:s}"
+		"en" "You have sent {HIGHLIGHT}{1}{NORMAL} credits to {HIGHLIGHT}{2}{NORMAL}.
+		"hu" "{HIGHLIGHT}{1}{NORMAL} kreditet küldtél neki: {HIGHLIGHT}{2}{NORMAL}."
+	}
+	
+	"Credit Gift Received"
+	{
+		"#format" "{1:d},{2:s}"
+		"en" "{HIGHLIGHT}{2}{NORMAL} has sent you {HIGHLIGHT}{1}{NORMAL} credits."
+		"hu" "{HIGHLIGHT}{2}{NORMAL} {HIGHLIGHT}{1}{NORMAL} kreditet küldött neked."
+	}
+	
+	"Package Sell"
+	{
+		"#format" "{1:d}"
+		"en" "Sell this package for {1}"
+		"hu" "Csomag eladása {1} kreditért"
+	}
+	
+	"Package Gift"
+	{
+		"en" "Gift this package"
+		"hu" "Csomag elajándékozása"
+	}
+	
+	"PlayerSkins Settings Changed"
+	{
+		"en" "Your new settings will be applied on next spawn."
+		"hu" "Az új beállításaid a következő élettől fognak működni."
+	}
+	
+	"Confirm_Yes"
+	{
+		"en" "Yes"
+		"hu" "Igen"
+	}
+	
+	"Confirm_No"
+	{
+		"en" "No"
+		"hu" "Nem"
+	}
+	
+	"Confirm_Buy"
+	{
+		"#format" "{1:s},{2:t}"
+		"en" "Are you sure you want to buy {1} {2}?"
+		"hu" "Biztosan meg akarod venni a következőt: {1} {2}?"
+	}
+	
+	"Confirm_Sell"
+	{
+		"#format" "{1:s},{2:t},{3:d}"
+		"en" "Are you sure you want to sell {1} {2} for {3}?"
+		"hu" "Biztosan el akarod adni a következőt: {1} {2}?"
+	}
+	
+	"Confirm_Gift"
+	{
+		"#format" "{1:s},{2:t},{3:s}"
+		"en" "Are you sure you want to gift {1} {2} to {3}?"
+		"hu" "Biztosan el akarod ajándékozni a következőt: {1} {2} neki: {3}?"
+	}
+
+	"Confirm_Gift_Drop"
+	{
+		"#format" "{1:s},{2:t}"
+		"en" "Are you sure you want to drop {1} {2} as a gift?"
+		"hu" "Biztosan el akarod ajándékozni a következőt: {1} {2}?"
+	}
+	
+	"Override Enabled"
+	{
+		"en" "Your current skin doesn't support hats. Your skin will be changed."
+		"hu" "A jelenlegi skined nem támogatja a sapkákat. A skined megváltoztatjuk, hogy tudd viselni a sapkád."
+	}
+	
+	"Override Disabled"
+	{
+		"en" "Your skin doesn't support hats. Your equipped hat will be disabled."
+		"hu" "A jelenlegi skined nem támogatja a sapkákat. A sapkád nem tudod felvenni."
+	}
+
+	"Credits Given"
+	{
+		"#format" "{1:s}{2:d}"
+		"en" "{1} has been given {2} credits."
+		"hu" "{1} {2} kreditet kapott."
+	}
+
+	"Betting Won"
+	{
+		"#format" "{1:d}"
+		"en" "Your bet was successful. You won {1} credits."
+		"hu" "Sikeres volt a fogadásod. Nyertél {1} kreditet."
+	}
+
+	"Betting Lost"
+	{
+		"#format" "{1:d}"
+		"en" "You lost {1} credits on the bet."
+		"hu" "{1} kreditet vesztettél a fogadáson."
+	}
+
+	"Betting Invalid Team"
+	{
+		"en" "Invalid team identifier specified."
+		"hu" "Helytelen csapat azonosító."
+	}
+
+	"Betting Placed"
+	{
+		"#format" "{1:d}"
+		"en" "You have successfully placed a bet of {1} credits."
+		"hu" "Sikeresen fogadtál {1} kredit értékben."
+	}
+
+	"Betting Already Placed"
+	{
+		"en" "You have already placed your bet for the round."
+		"hu" "Ebben a körben már fogadtál."
+	}
+
+	"Betting Period Over"
+	{
+		"en" "The betting period is over for this round."
+		"hu" "Ebben a körben már nem fogadhatsz."
+	}
+	
+	"Player Resetted"
+	{
+		"#format" "{1:s}"
+		"en" "{1} has been resetted."
+		"hu" "{1} nullázva lett."
+	}
+
+	"Player Credits"
+	{
+		"#format" "{1:s},{2:d}"
+		"en" "{HIGHLIGHT}{1}{NORMAL} has {HIGHLIGHT}{2}{NORMAL} credits."
+		"hu" "{HIGHLIGHT}{1}{NORMAL} {HIGHLIGHT}{2}{NORMAL} kredittel rendelkezik."
+	}
+
+	"Credits Earned For Killing"
+	{
+		"#format" "{1:d},{2:s}"
+		"en" "You earned {HIGHLIGHT}{1}{NORMAL} credits for killing {HIGHLIGHT}{2}{NORMAL}."
+		"hu" "{HIGHLIGHT}{2}{NORMAL} megölésével {HIGHLIGHT}{1}{NORMAL} kreditet szereztél."
+	}
+
+	"Credits Earned For Playing"
+	{
+		"#format" "{1:d}"
+		"en" "You earned {HIGHLIGHT}{1}{NORMAL} credits for playing on the server."
+		"hu" "{HIGHLIGHT}{1}{NORMAL} kreditet szereztél az itt töltött időért.
+	}
+
+	"Drop Gift"
+	{
+		"en" "Drop as gift"
+		"hu" "Ajándékcsomagként eldobás"
+	}
+
+	"Gift Item Picked"
+	{
+		"#format" "{1:s},{2:t}"
+		"en" "You picked up a {HIGHLIGHT}{1} {2}{NORMAL}."
+		"hu" "A következőt vetted fel {HIGHLIGHT}{1} {2}{NORMAL}."
+	}
+
+	"Gift Credit Picked"
+	{
+		"#format" "{1:d}"
+		"en" "You picked up {HIGHLIGHT}{1} credits{NORMAL}."
+		"hu" "{HIGHLIGHT}{1} kreditet{NORMAL} vettél fel."
+	}
+
+	"Credit Gift Dropped"
+	{
+		"#format" "{1:d}"
+		"en" "You dropped {HIGHLIGHT}{1} credits{NORMAL} as a gift."
+		"hu" "{HIGHLIGHT}{1} kreditet{NORMAL} ajándékoztál el."
+	}
+
+	"Must be Alive"
+	{
+		"en" "You must be alive to use this."
+		"hu" "Ez a parancs halottként nem használható."
+	}
+
+	"TF Wrong Class"
+	{
+		"en" "This item was meant to be used with a different player class."
+		"hu" "Ez a tárgy egy másik kaszthoz való."
+	}
+
+	"Help_Back"
+	{
+		"en" "Back"
+	}
+
+	"Help_Exit"
+	{
+		"en" "Exit"
+	}
+
+	"Jetpack Fuel"
+	{
+		"#format" "{1:.1f}"
+		"en" "[Jetpack] Fuel: {1}"
+		"hu" "[Jetpack] Üzemanyag: {1}"
+	}
+
+	"Health Round Limit"
+	{
+		"en" "You have reached the maximum amount of health packs you can buy this round."
+		"hu" "Ebben a körben már elég életet vettél."
+	}
+
+	"Respawn Round Limit"
+	{
+		"en" "You have reached the maximum number of respawns you can buy this round."
+		"hu" "Ebben a körben már elég újraéledést vettél."
+	}
+
+	"Jihad Wrong Team"
+	{
+		"en" "You can't use the bomb in this team."
+		"hu" "Ebben a csapatban nem használhatod a bombát."
+	}
+
+	"Jihad Failed"
+	{
+		"en" "Your bomb has failed to explode."
+		"hu" "A robbantás sikertelen volt."
+	}
+
+	"Godmode Round Limit"
+	{
+		"en" "You have reached the maximum amount of godmodes you can buy this round."
+		"hu" "Ebben a körben már elég örök életet vettél."
+	}
+
+	"Godmode Wrong Team"
+	{
+		"en" "You can't use godmode in this team."
+		"hu" "Ebben a csapatban nem használhatod az örök életet."
+	}
+
+	// Item type names for chat messages
+	"package"
+	{
+		"en" "package"
+		"hu" "csomag"
+	}
+	
+	"hat"
+	{
+		"en" "hat"
+		"hu" "sapka"
+	}
+	
+	"tracer"
+	{
+		"en" "tracer"
+		"hu" "lézer"
+	}
+	
+	"playerskin"
+	{
+		"en" "player skin"
+		"hu" "játékos skin"
+	}
+
+	"zrclass"
+	{
+		"en" "player class"
+		"hu" "játékos típus"
+	}
+	
+	"trail"
+	{
+		"en" "trail"
+		"hu" "csík"
+	}
+	
+	"grenadeskin"
+	{
+		"en" "grenade skin"
+		"hu" "gránát skin"
+	}
+	
+	"grenadetrail"
+	{
+		"en" "grenade trail"
+		"hu" "gránát csík"
+	}
+
+	"weaponcolor"
+	{
+		"en" "weapon color"
+		"hu" "fegyver szín"
+	}
+
+	"tfunusual"
+	{
+		"en" "hat effect"
+		"hu" "sapka effekt"
+	}
+	
+	"tfhatdye"
+	{
+		"en" "hat dye"
+		"hu" "sapka szín"
+	}
+
+	"tfweapon"
+	{
+		"en" "custom weapon"
+		"hu" "saját fegyver"
+	}
+
+	"tfhead"
+	{
+		"en" "head size"
+		"hu" "fej méret"
+	}
+
+	"tfhat"
+	{
+		"en" "building hat"
+		"hu" "építmény sapka"
+	}
+
+	"tfweaponsize"
+	{
+		"en" "weapon size"
+		"hu" "fegyver méret"
+	}
+
+	"paintball"
+	{
+		"en" "bullets"
+		"hu" "golyók"
+	}
+	
+	"watergun"
+	{
+		"en" "effect"
+		"hu" "effekt"
+	}
+
+	"nametag"
+	{
+		"en" "name tag"
+		"hu" "név tag"
+	}
+
+	"namecolor"
+	{
+		"en" "name color"
+		"hu" "név szín"
+	}
+
+	"msgcolor"
+	{
+		"en" "message color"
+		"hu" "üzenet szín"
+	}
+
+	"jetpack"
+	{
+		"en" "rocket"
+		"hu" "rakéta"
+	}
+
+	"bunnyhop"
+	{
+		"en" "skill"
+		"hu" "képesség"
+	}
+
+	"lasersight"
+	{
+		"en" "laser sight"
+		"hu" "lézer"
+	}
+
+	"health"
+	{
+		"en" "pack"
+		"hu" "csomag"
+	}
+
+	"invisibility"
+	{
+		"en" "ability"
+		"hu" "képesség"
+	}
+
+	"speed"
+	{
+		"en" "ability"
+		"hu" "képesség"
+	}
+
+	"gravity"
+	{
+		"en" "ability"
+		"hu" "képesség"
+	}
+
+	"weapon"
+	{
+		"en" "weapon"
+		"hu" "fegyver"
+	}
+
+	"sound"
+	{
+		"en" "sound"
+		"hu" "hang"
+	}
+	
+	"command"
+	{
+		"en" ""
+		"hu" ""
+	}
+
+	"jihad"
+	{
+		"en" "bomb"
+		"hu" "bomba"
+	}
+
+	"godmode"
+	{
+		"en" "godmode"
+		"hu" "örök élet"
+	}
+
+	"knife"
+	{
+		"en" "knife"
+		"hu" "kés"
+	}
+
+	"pet"
+	{
+		"en" "pet"
+		"hu" "állat"
+	}
+
+	"weaponskin"
+	{
+		"en" "weapon skin"
+		"hu" "fegyver skin"
+	}
+
+	"spray"
+	{
+		"en" "spray"
+		"hu" "spray"
+	}
+}

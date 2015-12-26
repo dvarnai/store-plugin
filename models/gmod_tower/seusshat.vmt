@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gmod_tower/seusshat"
+	"$nocull" 1
+}

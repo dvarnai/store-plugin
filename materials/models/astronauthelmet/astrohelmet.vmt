@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\astronauthelmet\astrohelmet"
+	"$model" 1
+	"$envmapmode" 1
+}

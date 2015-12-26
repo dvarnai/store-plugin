@@ -1,0 +1,60 @@
+"VertexlitGeneric"
+{
+
+	"$basetexture" "models\spartahelmet\spartahelm"
+	"$bumpmap" "models\spartahelmet\spartahelm_normal.vtf"
+
+	"$nocull" "1"
+
+               	"$phong" "1"
+	"$phongexponent" "25"
+	"$phongboost" "7"	
+	
+	"$phongfresnelranges"	"[.25 .5 1]"
+
+
+	"$rimlight" "1"												
+	"$rimlightexponent" "15"											
+	"$rimlightboost" "1"			
+
+	
+	"360?$color2" "[ 0.9 0.8 0.8 ]"
+
+
+	"$glowcolor" "1"
+
+
+
+
+	
+	
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"Proxies"
+	{
+		"weapon_invis"
+		{
+		}
+		"ModelGlowColor"
+		{
+			"resultVar" "$glowcolor"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$selfillumtint"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$color2"
+		}
+	}
+
+
+
+
+	
+
+}

@@ -1,0 +1,8755 @@
+"Store"
+{
+
+	"Weapon Skins"
+	{
+		"M4A1-S Hyper Beast"
+		{
+			"paint"	 "430"
+			"wear"	 "0.01"
+			"stattrak" "1"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+		"Mag7 RedHot"
+		{
+			"paint"	 "431"
+			"wear"	 "0.01"
+			"stattrak" "1"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+		"Negev Glory"
+		{
+			"paint"	 "432"
+			"wear"	 "0.01"
+			"stattrak" "1"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+		"Mac10 NeonRider"
+		{
+			"paint"	 "433"
+			"wear"	 "0.01"
+			"stattrak" "1"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+		"Sawedoff Origami"
+		{
+			"paint"	 "434"
+			"wear"	 "0.01"
+			"stattrak" "1"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+		"CZ75 Precision"
+		{
+			"paint"	 "435"
+			"wear"	 "0.01"
+			"stattrak" "1"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+		"UMP45 RACER"
+		{
+			"paint"	 "436"
+			"wear"	 "0.01"
+			"stattrak" "1"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+		"Famas Jinn "
+		{
+			"paint"	 "429"
+			"wear"	 "0.01"
+			"stattrak" "1"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+		"Galil Eco"
+		{
+			"paint"	 "428"
+			"wear"	 "0.01"
+			"stattrak" "1"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+		"Five Seven Banana"
+		{
+			"paint"	 "427"
+			"wear"	 "0.01"
+			"stattrak" "1"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+		"P250 Contour"
+		{
+			"paint"	 "426"
+			"wear"	 "0.01"
+			"stattrak" "1"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+		"AWP Twine"
+		{
+			"paint"	 "424"
+			"wear"	 "0.01"
+			"stattrak" "1"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+		"MP9 Ultra Modern"
+		{
+			"paint"	 "423"
+			"wear"	 "0.01"
+			"stattrak" "1"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+		"Ak47 Maestry"
+		{
+			"paint"	 "422"
+			"wear"	 "0.01"
+			"stattrak" "1"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+		"Abyss"
+		{
+
+			"paint"	 "361"
+			"wear" "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Acid Fade"
+		{
+
+			"paint"	 "253"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Afterimage"
+		{
+
+			"paint"	 "154"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Amber Fade"
+		{
+
+			"paint"	 "246"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Anodized Gunmetal"
+		{
+
+			"paint"	 "210"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Anodized Navy"
+		{
+
+			"paint"	 "28"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Anodized Navy (2)"
+		{
+
+			"paint"	 "197"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Antique (Nova)"
+		{
+
+			"paint"	 "286"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Antique (PP-Bizon)"
+		{
+
+			"paint"	 "306"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Arctic Camo"
+		{
+
+			"paint"	 "6"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Army Mesh"
+		{
+
+			"paint"	 "242"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Army Recon"
+		{
+
+			"paint"	 "245"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Army Sheen"
+		{
+
+			"paint"	 "298"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Ash Wood"
+		{
+
+			"paint"	 "234"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Asiimov (AWP)"
+		{
+
+			"paint"	 "279"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Asiimov (M4A4)"
+		{
+
+			"paint"	 "255"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Asiimov (P90)"
+		{
+
+			"paint"	 "359"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Atomic Alloy"
+		{
+
+			"paint"	 "301"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Azure Zebra"
+		{
+
+			"paint"	 "229"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Basilisk"
+		{
+
+			"paint"	 "383"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Bengal Tiger"
+		{
+
+			"paint"	 "9"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Black Laminate"
+		{
+
+			"paint"	 "172"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Black Limba"
+		{
+
+			"paint"	 "190"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Blaze"
+		{
+
+			"paint"	 "37"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}	
+
+		"Blaze Orange"
+		{
+
+			"paint"	 "166"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Blind Spot"
+		{
+
+			"paint"	 "228"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Blizzard Marbelized"
+		{
+
+			"paint"	 "75"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Blood In The Water"
+		{
+
+			"paint"	 "222"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Blood Tiger"
+		{
+
+			"paint"	 "217"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Bloomstick"
+		{
+
+			"paint"	 "62"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Blue Fissure"
+		{
+
+			"paint"	 "278"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Blue Laminate"
+		{
+
+			"paint"	 "226"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Blue Steel"
+		{
+
+			"paint"	 "42"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Blue Spruce"
+		{
+
+			"paint"	 "96"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Blue Streak"
+		{
+
+			"paint"	 "13"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Blue Titanium"
+		{
+
+			"paint"	 "216"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Bone Mask"
+		{
+
+			"paint"	 "27"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Bone Machine"
+		{
+
+			"paint"	 "370"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Bone Pile"
+		{
+
+			"paint"	 "193"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"BOOM"
+		{
+
+			"paint"	 "174"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Boreal Forest"
+		{
+
+			"paint"	 "77"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Brass"
+		{
+
+			"paint"	 "159"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Bratatat"
+		{
+
+			"paint"	 "317"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Briar"
+		{
+
+			"paint"	 "330"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Bright Water"
+		{
+
+			"paint"	 "189"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Bulldozer"
+		{
+
+			"paint"	 "39"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Bullet Rain"
+		{
+
+			"paint"	 "155"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Business Class"
+		{
+
+			"paint"	 "364"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Caged Steel"
+		{
+
+			"paint"	 "299"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Caiman"
+		{
+
+			"paint"	 "339"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"CaliCamo"
+		{
+
+			"paint"	 "240"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Candy Apple"
+		{
+
+			"paint"	 "3"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Caramel"
+		{
+
+			"paint"	 "93"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Carbon Fiber"
+		{
+
+			"paint"	 "70"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Cardiac"
+		{
+
+			"paint"	 "391"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Cartel (AK-47)"
+		{
+
+			"paint"	 "394"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Cartel (P250)"
+		{
+
+			"paint"	 "388"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Case Hardened"
+		{
+
+			"paint"	 "44"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Catacombs"
+		{
+
+			"paint"	 "399"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Cerberus"
+		{
+
+			"paint"	 "379"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Chainmail"
+		{
+
+			"paint"	 "327"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Chalice"
+		{
+
+			"paint"	 "325"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Chameleon"
+		{
+
+			"paint"	 "280"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Chatterbox"
+		{
+
+			"paint"	 "398"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Chemical Green"
+		{
+
+			"paint"	 "376"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Coach Class"
+		{
+
+			"paint"	 "346"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Cobalt Disruption"
+		{
+
+			"paint"	 "231"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Cobalt Halftone"
+		{
+
+			"paint"	 "267"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Cobalt Quartz"
+		{
+
+			"paint"	 "249"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Cold Blooded"
+		{
+
+			"paint"	 "67"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Colony"
+		{
+
+			"paint"	 "47"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Commuter"
+		{
+
+			"paint"	 "343"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Condemned"
+		{
+
+			"paint"	 "110"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Conspiracy"
+		{
+
+			"paint"	 "351"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Contamination"
+		{
+
+			"paint"	 "373"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Contractor"
+		{
+
+			"paint"	 "46"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Contrast Spray"
+		{
+
+			"paint"	 "22"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Corporal"
+		{
+
+			"paint"	 "281"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Corticera (AWP)"
+		{
+
+			"paint"	 "184"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Corticera (P2000)"
+		{
+
+			"paint"	 "181"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Copper"
+		{
+
+			"paint"	 "41"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Copper Galaxy"
+		{
+
+			"paint"	 "274"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Copper Head"
+		{
+
+			"paint"	 "10"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Crimson Web"
+		{
+
+			"paint"	 "12"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Crimson Web (2)"
+		{
+
+			"paint"	 "232"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Curse"
+		{
+
+			"paint"	 "310"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Cyanospatter"
+		{
+
+			"paint"	 "92"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Cyrex (M4A1-S"
+		{
+
+			"paint"	 "360"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Cyrex (SCAR-20)"
+		{
+
+			"paint"	 "312"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Damascus Steel (1)"
+		
+
+		{
+
+			"paint"	 "410"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Damascus Steel (2)"
+		{
+
+			"paint"	 "411"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Damascus Steel (3)"
+		{
+
+			"paint"	 "247"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Dark Age"
+		{
+
+			"paint"	 "329"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Dark Water"
+		{
+
+			"paint"	 "60"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Dart"
+		{
+
+			"paint"	 "386"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Deadly Poison"
+		{
+
+			"paint"	 "403"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Death By Kitty"
+		{
+
+			"paint"	 "156"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Death Rattle"
+		{
+
+			"paint"	 "293"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Delusion"
+		{
+
+			"paint"	 "392"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Demeter"
+		{
+
+			"paint"	 "195"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Demolition"
+		{
+
+			"paint"	 "153"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Detour"
+		{
+
+			"paint"	 "319"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Desert Storm"
+		{
+
+			"paint"	 "8"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Desert-Strike (M4A4)"
+		{
+
+			"paint"	 "336"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Desert-Strike (Negev)"
+		{
+
+			"paint"	 "355"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Desert Warfare"
+		{
+
+			"paint"	 "311"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Doomkitty"
+		{
+
+			"paint"	 "178"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Doppler (Phase 1)"
+		{
+
+			"paint"		"418"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Doppler (Phase 2)"
+		{
+
+			"paint"		"419"
+			"wear"	"0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Doppler (Phase 3)"
+		{
+
+			"paint"		"420"
+			"wear" "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Doppler (Phase 4)"
+		{
+
+			"paint"		"421"
+			"wear" "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Doppler (Black Pearl)"
+		{
+
+			"paint"		"417"
+			"wear"	"0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Doppler (Ruby)"
+		{
+
+			"paint"		"415"
+			"wear"	"0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Doppler (Sapphire)"
+		{
+
+			"paint"		"416"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Dragon King"
+		{
+
+			"paint"	 "400"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Dragon Lore"
+		{
+
+			"paint"	 "344"
+			"wear"	"0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Dragon Tattoo"
+		{
+
+			"paint"	 "48"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Dry Season"
+		{
+
+			"paint"	 "199"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Electric Hive"
+		{
+
+			"paint"	 "227"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Emerald"
+		{
+
+			"paint"	 "196"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Emerald Dragon"
+		{
+
+			"paint"	 "182"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Emerald Pinstripe"
+		{
+
+			"paint"	 "300"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Facets"
+		{
+
+			"paint"	 "207"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Fade"
+		{
+
+			"paint"	 "38"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Faded Zebra"
+		{
+
+			"paint"	 "176"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Fallout Warning (1)"
+		{
+
+			"paint"	 "169"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Fallout Warning (2)"
+		{
+
+			"paint"	 "378"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Fire Elemental"
+		{
+
+			"paint"	 "389"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Fire Serpent"
+		{
+
+			"paint"	 "180"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Firestarter"
+		{
+
+			"paint"	 "385"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"First Class (AK-47)"
+		{
+
+			"paint"	 "341"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"First Class (Sawed-Off)"
+		{
+
+			"paint"	 "345"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Forest DDPAT"
+		{
+
+			"paint"	 "5"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Forest Leaves"
+		{
+
+			"paint"	 "25"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Forest Night"
+		{
+
+			"paint"	 "78"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Fowl Play"
+		{
+
+			"paint"	 "352"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Franklin"
+		{
+
+			"paint"	 "295"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Full Stop"
+		{
+
+			"paint"	 "250"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Gator Mesh"
+		{
+
+			"paint"	 "243"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Ghost Camo"
+		{
+
+			"paint"	 "225"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Glacier Mesh"
+		{
+
+			"paint"	 "111"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Golden Koi"
+		{
+
+			"paint"	 "185"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Granite Marbelized"
+		{
+
+			"paint"	 "21"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Graphite (1)"
+		{
+
+			"paint"	 "214"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Graphite (2)"
+		{
+
+			"paint"	 "212"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Grassland"
+		{
+
+			"paint"	 "95"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Grassland Leaves"
+		{
+
+			"paint"	 "104"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Graven"
+		{
+
+			"paint"	 "188"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Green Apple"
+		{
+
+			"paint"	 "294"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Green Plaid"
+		{
+
+			"paint"	 "366"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Griffin"
+		{
+
+			"paint"	 "384"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Grinder"
+		{
+
+			"paint"	 "381"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Grotto"
+		{
+
+			"paint"	 "406"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Groundwater (1)"
+		{
+
+			"paint"	 "2"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Groundwater (2)"
+		{
+
+			"paint"	 "209"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Guardian (1)"
+		{
+
+			"paint"	 "257"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Guardian (2)"
+		{
+
+			"paint"	 "290"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Gun Smoke"
+		{
+
+			"paint"	 "15"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Hand Cannon"
+		{
+
+			"paint"	 "328"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Hazard (1)"
+		{
+
+			"paint"	 "101"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Hazard (2)"
+		{
+
+			"paint"	 "198"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Heat"
+		{
+
+			"paint"	 "284"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Heaven Guard (MAG-7)"
+		{
+
+			"paint"	 "291"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Heaven Guard (XM1014)"
+		{
+
+			"paint"	 "314"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Heirloom"
+		{
+
+			"paint"	 "273"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Hemoglobin"
+		{
+
+			"paint"	 "220"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Hexane"
+		{
+
+			"paint"	 "218"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Highwayman"
+		{
+
+			"paint"	 "390"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Hive"
+		{
+
+			"paint"	 "219"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Hot Rod"
+		{
+
+			"paint"	 "33"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Hot Shot"
+		{
+
+			"paint"	 "377"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Howl"
+		{
+
+			"paint"	 "309"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Hunting Blind"
+		{
+
+			"paint"	 "241"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Hypnotic"
+		{
+
+			"paint"	 "61"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Indigo"
+		{
+
+			"paint"	 "333"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Irradiated Alert"
+		{
+
+			"paint"	 "171"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Isaac"
+		{
+
+			"paint"	 "303"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Ivory"
+		{
+
+			"paint"	 "357"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Jaguar"
+		{
+
+			"paint"	 "316"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Jet Set"
+		{
+
+			"paint"	 "340"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Jungle (1)"
+		{
+
+			"paint"	 "151"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Jungle (2)"
+		{
+
+			"paint"	 "205"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Jungle Dashed"
+		{
+
+			"paint"	 "147"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Jungle DDPAT"
+		{
+
+			"paint"	 "202"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Jungle Spray"
+		{
+
+			"paint"	 "122"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Jungle Tiger"
+		{
+
+			"paint"	 "16"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Kami (1)"
+		{
+
+			"paint"	 "265"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Kami (2)"
+		{
+
+			"paint"	 "308"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Knight"
+		{
+
+			"paint"	 "326"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Koi"
+		{
+
+			"paint"	 "356"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"The Kraken"
+		{
+
+			"paint"	 "256"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Labyrinth"
+		{
+
+			"paint"	 "362"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Leather"
+		{
+
+			"paint"	 "342"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Lichen Dashed"
+		{
+
+			"paint"	 "26"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Lightning Strike"
+		{
+
+			"paint"	 "51"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Magma"
+		{
+
+			"paint"	 "266"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Malachite"
+		{
+
+			"paint"	 "402"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Man-O'-War"
+		{
+
+			"paint"	 "395"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Marble Fade"
+		{
+
+			"paint"	 "413"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Marina"
+		{
+
+			"paint"	 "261"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Master Piece"
+		{
+
+			"paint"	 "321"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Mayan Dreams"
+		{
+
+			"paint"	 "200"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Mehndi"
+		{
+
+			"paint"	 "258"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Memento"
+		{
+
+			"paint"	 "177"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Metallic DDPAT"
+		{
+
+			"paint"	 "34"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Meteorite"
+		{
+
+			"paint"	 "296"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Modern Hunter"
+		{
+
+			"paint"	 "164"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Module"
+		{
+
+			"paint"	 "335"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Mosaico"
+		{
+
+			"paint"	 "204"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Mudder"
+		{
+
+			"paint"	 "90"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Muertos"
+		{
+
+			"paint"	 "404"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Murky"
+		{
+
+			"paint"	 "382"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Naga"
+		{
+
+			"paint"	 "397"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Night"
+		{
+
+			"paint"	 "40"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Night Ops"
+		{
+
+			"paint"	 "236"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Nightshade"
+		{
+
+			"paint"	 "223"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Nitro (CZ-75)"
+		{
+
+			"paint"	 "322"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Nitro (M4A1-S)"
+		{
+
+			"paint"	 "254"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Nuclear Garden"
+		{
+
+			"paint"	 "372"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Nuclear Threat (1)"
+		{
+
+			"paint"	 "168"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Nuclear Threat (2)"
+		{
+
+			"paint"	 "179"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Nuclear Waste"
+		{
+
+			"paint"	 "369"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Ocean Foam (MP7)"
+		{
+
+			"paint"	 "211"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Ocean Foam (P2000)"
+		{
+
+			"paint"	 "213"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Olive Plaid"
+		{
+
+			"paint"	 "365"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Orange DDPAT"
+		{
+
+			"paint"	 "83"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Orange Peel"
+		{
+
+			"paint"	 "141"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Orion"
+		{
+
+			"paint"	 "313"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Osiris"
+		{
+
+			"paint"	 "349"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Ossified"
+		{
+
+			"paint"	 "36"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Overgrowth"
+		{
+
+			"paint"	 "183"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Palm (1)"
+		{
+
+			"paint"	 "157"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Palm (2)"
+		{
+
+			"paint"	 "201"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Panther"
+		{
+
+			"paint"	 "276"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Pilot"
+		{
+
+			"paint"	 "347"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Pink DDPAT"
+		{
+
+			"paint"	 "84"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Pit Viper"
+		{
+
+			"paint"	 "251"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Poison Dart"
+		{
+
+			"paint"	 "315"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Polar Camo"
+		{
+
+			"paint"	 "74"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Polar Mesh"
+		{
+
+			"paint"	 "107"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Predator"
+		{
+
+			"paint"	 "170"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Pulse (FAMAS)"
+		{
+
+			"paint"	 "260"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Pulse (P2000)"
+		{
+
+			"paint"	 "338"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Pulse (SG553)"
+		{
+
+			"paint"	 "287"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Quicksilver"
+		{
+
+			"paint"	 "407"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+
+
+		"Radiation Hazard (1)"
+		{
+
+			"paint"	 "167"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Radiation Hazard (2)"
+		{
+
+			"paint"	 "375"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Reactor"
+		{
+
+			"paint"	 "367"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Redline (AK-47)"
+		{
+
+			"paint"	 "282"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		
+
+		"Redline (AWP)"
+		{
+
+			"paint"	 "259"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Red Laminate"
+		{
+
+			"paint"	 "14"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Red Leather"
+		{
+
+			"paint"	 "348"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Red Fragcam"
+		{
+
+			"paint"	 "275"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Red Python"
+		{
+
+			"paint"	 "320"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Red Quartz"
+		{
+
+			"paint"	 "248"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Retribution"
+		{
+
+			"paint"	 "307"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Rising Skull"
+		{
+
+			"paint"	 "263"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Road Rash"
+		{
+
+			"paint"	 "318"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Rose Iron"
+		{
+
+			"paint"	 "262"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Royal Blue"
+		{
+
+			"paint"	 "332"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Rust Coat (1)"
+		{
+
+			"paint"	 "323"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Rust Coat (2)"
+		{
+
+			"paint"	 "203"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Rust Coat (3)"
+		{
+
+			"paint"	 "414"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Safari Mesh"
+		{
+
+			"paint"	 "72"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Sage Spray"
+		{
+
+			"paint"	 "119"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Sandstorm (1)"
+		{
+
+			"paint"	 "264"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Sandstorm (2)"
+		{
+
+			"paint"	 "289"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Sand Dashed"
+		{
+
+			"paint"	 "148"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Sand Dune (1)"
+		{
+
+			"paint"	 "99"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Sand Dune (2)"
+		{
+
+			"paint"	 "208"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Sand Mesh"
+		{
+
+			"paint"	 "116"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Sand Spray"
+		{
+
+			"paint"	 "124"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Scorched"
+		{
+
+			"paint"	 "175"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Scorpion"
+		{
+
+			"paint"	 "71"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Sergeant"
+		{
+
+			"paint"	 "288"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Serenity"
+		{
+
+			"paint"	 "405"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Serum"
+		{
+
+			"paint"	 "221"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Setting Sun"
+		{
+
+			"paint"	 "368"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Shattered"
+		{
+
+			"paint"	 "192"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Silver"
+		{
+
+			"paint"	 "32"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+			
+
+		}
+
+		"Silver Quartz"
+		{
+
+			"paint"	 "252"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Skulls"
+		{
+
+			"paint"	 "11"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Slashed"
+		{
+
+			"paint"	 "304"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Slaughter"
+		{
+
+			"paint"	 "59"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Snake Camo"
+		{
+
+			"paint"	 "30"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Spitfire"
+		{
+
+			"paint"	 "194"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Splash"
+		{
+
+			"paint"	 "162"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Splash Jam"
+		{
+
+			"paint"	 "165"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Stained"
+		{
+
+			"paint"	 "43"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Stainless"
+		{
+
+			"paint"	 "277"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Steel Disruption"
+		{
+
+			"paint"	 "230"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Storm"
+		{
+
+			"paint"	 "100"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Styx"
+		{
+
+			"paint"	 "371"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Supernova"
+		{
+
+			"paint"	 "358"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"System Lock"
+		{
+
+			"paint"	 "401"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Tatter"
+		{
+
+			"paint"	 "337"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Teardown"
+		{
+
+			"paint"	 "244"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Tempest"
+		{
+
+			"paint"	 "191"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Terrain"
+		{
+
+			"paint"	 "285"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"The Fuschia Is Now"
+		{
+
+			"paint"	 "269"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Tiger Tooth"
+		{
+
+			"paint"	 "409"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Tigris"
+		{
+
+			"paint"	 "350"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Titanium Bit"
+		{
+
+			"paint"	 "272"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Tornado"
+		{
+
+			"paint"	 "206"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Torque"
+		{
+
+			"paint"	 "305"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Toxic"
+		{
+
+			"paint"	 "374"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Tranquility"
+		{
+
+			"paint"	 "393"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Traveler"
+		{
+
+			"paint"	 "363"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Tread Plate"
+		{
+
+			"paint"	 "268"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Trigon"
+		{
+
+			"paint"	 "283"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Tropical Storm"
+		{
+
+			"paint"	 "233"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Tuxedo"
+		{
+
+			"paint"	 "297"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Twist"
+		{
+
+			"paint"	 "334"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Ultraviolet"
+		{
+
+			"paint"	 "98"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Undertow"
+		{
+
+			"paint"	 "271"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Urban Dashed"
+		{
+
+			"paint"	 "149"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Urban DDPAT"
+		{
+
+			"paint"	 "17"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Urban Hazard (1)"
+		{
+
+			"paint"	 "387"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Urban Hazard (2)"
+		{
+
+			"paint"	 "354"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Urban Masked"
+		{
+
+			"paint"	 "143"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Urban Perforated"
+		{
+
+			"paint"	 "135"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Urban Rubble"
+		{
+
+			"paint"	 "237"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Urban Shock"
+		{
+
+			"paint"	 "396"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"VariCamo"
+		{
+
+			"paint"	 "235"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"VariCamo Blue"
+		{
+
+			"paint"	 "238"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Victoria"
+		{
+
+			"paint"	 "270"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Walnut"
+		{
+
+			"paint"	 "158"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Wasteland Rebel"
+		{
+
+			"paint"	 "380"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Water Elemental"
+		{
+
+			"paint"	 "353"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Water Sigil"
+		{
+
+			"paint"	 "224"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Wave Spray"
+		{
+
+			"paint"	 "186"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Waves Perforated"
+		{
+
+			"paint"	 "136"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Whiteout"
+		{
+
+			"paint"	 "102"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Wings"
+		{
+
+			"paint"	 "73"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Winter Forest"
+		{
+
+			"paint"	 "76"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Virus"
+		{
+
+			"paint"	 "20"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Vulcan"
+		{
+
+			"paint"	 "302"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"X-RAY"
+		{
+
+			"paint"	 "215"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+
+		"Zirka"
+		{
+
+			"paint"	 "187"
+			"wear"	 "0.01"
+			"stattrak" "2015"
+			"quality" "3"
+			"type" "weaponskin"
+			"price" "100"
+		}
+	}
+	
+	"Pets"
+	{
+		"Chicken"
+		{
+			"model" "models/chicken/chicken.mdl"
+			"position" "50.0 0.0 0.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "idle01"
+			"run" "run01"
+			"price" "100"
+			"type" "pet"
+		}
+
+		"Chicken Zombie"
+		{
+			"model" "models/chicken/chicken_zombie.mdl"
+			"position" "50.0 0.0 0.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "idle01"
+			"run" "run01"
+			"price" "100"
+			"type" "pet"
+		}
+
+		"Crow"
+		{
+			"model" "models/crow.mdl"
+			"position" "50.0 0.0 0.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "Idle01"
+			"run" "Run"
+			"unique_id" "crow_running"
+			"price" "100"
+			"type" "pet"
+		}
+
+		"Crow Flying"
+		{
+			"model" "models/crow.mdl"
+			"position" "50.0 0.0 70.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "Fly01"
+			"run" "Fly01"
+			"unique_id" "crow_flying"
+			"price" "100"
+			"type" "pet"
+		}
+
+		"Pigeon"
+		{
+			"model" "models/pigeon.mdl"
+			"position" "50.0 0.0 0.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "Idle01"
+			"run" "Run"
+			"unique_id" "pigeon_running"
+			"price" "100"
+			"type" "pet"
+		}
+
+		"Pigeon Flying"
+		{
+			"model" "models/pigeon.mdl"
+			"position" "50.0 0.0 70.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "Fly01"
+			"run" "Fly01"
+			"unique_id" "pigeon_flying"
+			"price" "100"
+			"type" "pet"
+		}
+
+		"Seagull"
+		{
+			"model" "models/seagull.mdl"
+			"position" "50.0 0.0 0.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "Idle01"
+			"run" "Run"
+			"unique_id" "seagull_running"
+			"price" "100"
+			"type" "pet"
+		}
+
+		"Seagull Flying"
+		{
+			"model" "models/seagull.mdl"
+			"position" "50.0 0.0 70.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "Fly"
+			"run" "Fly"
+			"unique_id" "seagull_flying"
+			"price" "100"
+			"type" "pet"
+		}
+	}
+
+	"Knives"
+	{
+		"Bayonet"
+		{
+			"entity" "weapon_bayonet"
+			"defindex" "500"
+			"type" "knife"
+			"price" "100"
+		}
+
+		"Gut"
+		{
+			"entity" "weapon_knife_gut"
+			"defindex" "506"
+			"type" "knife"
+			"price" "100"
+		}
+
+		"Flip"
+		{
+			"entity" "weapon_knife_flip"
+			"defindex" "505"
+			"type" "knife"
+			"price" "100"
+		}
+
+		"M9 Bayonet"
+		{
+			"entity" "weapon_knife_m9_bayonet"
+			"defindex" "508"
+			"type" "knife"
+			"price" "100"
+		}
+
+		"Karambit"
+		{
+			"entity" "weapon_knife_karambit"
+			"defindex" "507"
+			"type" "knife"
+			"price" "100"
+		}
+
+		"Golden"
+		{
+			"entity" "weapon_knifegg"
+			"type" "knife"
+			"price" "100"
+		}
+
+		"Tactical"
+		{
+			"entity" "weapon_knife_tactical"
+			"defindex" "509"
+			"type" "knife"
+			"price" "100"
+		}
+
+		"Butterfly"
+		{
+			"entity" "weapon_knife_butterfly"
+			"defindex" "515"
+			"type" "knife"
+			"price" "100"
+		}
+
+		"Falchion"
+		{
+			"entity" "weapon_knife_falchion"
+			"defindex" "512"
+			"type" "knife"
+			"price" "100"
+		}
+	}
+	
+	"Tracers"
+	{
+		"Blue"
+		{
+			"color" "0 0 125"
+			"price" "120"
+			"type" "tracer"
+		}
+		"Blue Violet"
+		{
+			"color" "138 43 226"
+			"price" "120"
+			"type" "tracer"
+		}
+		"Cyan"
+		{
+			"color" "0 255 125"
+			"price" "120"
+			"type" "tracer"
+		}
+		"Fire Brick"
+		{
+			"color" "178 34 34"
+			"price" "120"
+			"type" "tracer"
+		}
+		"Fuschia"
+		{
+			"color" "125 0 125"
+			"price" "120"
+			"type" "tracer"
+		}
+		"Gray"
+		{
+			"color" "240 240 240"
+			"price" "120"
+			"type" "tracer"
+		}
+		"Green"
+		{
+			"color" "0 125 0"
+			"price" "120"
+			"type" "tracer"
+		}
+		"Hunter Green"
+		{
+			"color" "35 142 35"
+			"price" "120"
+			"type" "tracer"
+		}
+		"Lawn Green"
+		{
+			"color" "124 122 0"
+			"price" "120"
+			"type" "tracer"
+		}
+		"Olive Brown"
+		{
+			"color" "128 125 165"
+			"price" "120"
+			"type" "tracer"
+		}
+		
+		"Orange"
+		{
+			"color" "125 77 0"
+			"price" "120"
+			"type" "tracer"
+		}
+	}
+
+	"Laser Sight"
+	{
+		"Blue"
+		{
+			"color" "0 0 125"
+			"price" "120"
+			"type" "lasersight"
+		}
+		"Blue Violet"
+		{
+			"color" "138 43 226"
+			"price" "120"
+			"type" "lasersight"
+		}
+		"Cyan"
+		{
+			"color" "0 255 125"
+			"price" "120"
+			"type" "lasersight"
+		}
+		"Fire Brick"
+		{
+			"color" "178 34 34"
+			"price" "120"
+			"type" "lasersight"
+		}
+		"Fuschia"
+		{
+			"color" "125 0 125"
+			"price" "120"
+			"type" "lasersight"
+		}
+		"Gray"
+		{
+			"color" "240 240 240"
+			"price" "120"
+			"type" "lasersight"
+		}
+		"Green"
+		{
+			"color" "0 125 0"
+			"price" "120"
+			"type" "lasersight"
+		}
+		"Hunter Green"
+		{
+			"color" "35 142 35"
+			"price" "120"
+			"type" "lasersight"
+		}
+		"Lawn Green"
+		{
+			"color" "124 122 0"
+			"price" "120"
+			"type" "lasersight"
+		}
+		"Olive Brown"
+		{
+			"color" "128 125 165"
+			"price" "120"
+			"type" "lasersight"
+		}
+		
+		"Orange"
+		{
+			"color" "125 77 0"
+			"price" "120"
+			"type" "lasersight"
+		}
+	}
+	
+	"Accessories"
+	{
+		"Hats"
+		{
+			"Spartan Helmet"
+			{
+				"model"	"models/spartahelm/spartahelm.mdl"
+				"position" "0.0 -2.2 -68.4"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+
+			"Ironman"
+			{
+				"model"	"models/fo3_ironman_mask.mdl"
+				"position" "1.0 -4.6 -2.0"
+				"angles" "0.0 -90.0 -20.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+
+			"V Mask"
+			{
+				"model"	"models/v/mask.mdl"
+				"position" "0.0 -5.2 -65.2"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+
+			"Pika Hat"
+			{
+				"model"	"models/pikahat/pikahat.mdl"
+				"position" "0.0 -2.2 -68.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+
+			"Mudkip Hat"
+			{
+				"model"	"models/mudhatk/mudhatk.mdl"
+				"position" "0.0 -2.2 -68.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+
+			"Super Saiyan"
+			{
+				"model"	"models/anime_patron/animepatr.mdl"
+				"position" "0.0 -2.2 -68.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+		
+			"Sentry"
+			{
+				"model"	"models/sentry_hat/sentryha.mdl"
+				"position" "0.0 -1.7 -68.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+
+			"Pedo Bear"
+			{
+				"model"	"models/pedobear/pedobearf.mdl"
+				"position" "0.0 -1.7 -70.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+		
+			"Antlers"
+			{
+				"model"	"models/sam/antlers.mdl"
+				"position" "0.0 0.0 2.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Car Tire"
+			{
+				"model"	"models/props_vehicles/tire001c_car.mdl"
+				"position" "0.0 -10.0 0.0"
+				"angles" "90.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Watermelon"
+			{
+				"model"	"models/props_junk/watermelon01.mdl"
+				"position" "0.0 0.0 5.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Traffic Cone"
+			{
+				"model"	"models/props_junk/trafficcone001a.mdl"
+				"position" "0.0 -1.0 20.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Metal Bucket"
+			{
+				"model"	"models/props_junk/metalbucket01a.mdl"
+				"position" "0.0 0.0 -8.0"
+				"angles" "180.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Terracotta"
+			{
+				"model"	"models/props_junk/terracotta01.mdl"
+				"position" "0.0 3.0 -10.0"
+				"angles" "180.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Baseball Cap"
+			{
+				"model"	"models/props/cs_office/snowman_hat.mdl"
+				"position" "0.0 0.0 7.0"
+				"angles" "0.0 -90.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Coffee Mug"
+			{
+				"model"	"models/props/cs_office/coffee_mug.mdl"
+				"position" "0.0 0.0 9.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"I <3 Turtles"
+			{
+				"model"	"models/props/de_tides/vending_hat.mdl"
+				"position" "1.8 0.0 4.0"
+				"angles" "0.0 -90.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Astronaut helmet"
+			{
+				"model"	"models/astronauthelmet/astronauthelmet.mdl"
+				"position" "0.0 0.0 -5.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Viking helmet"
+			{
+				"model"	"models/vikinghelmet/vikinghelmet.mdl"
+				"position" "0.0 -1.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Fedora"
+			{
+				"model"	"models/gmod_tower/fedorahat.mdl"
+				"position" "0.0 -1.5 8.5"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"KFC Bucket"
+			{
+				"model"	"models/gmod_tower/kfcbucket.mdl"
+				"position" "0.0 -1.0 3.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Cake Hat"
+			{
+				"model"	"models/cakehat/cakehat.mdl"
+				"position" "0.0 -1.0 3.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Santa Hat"
+			{
+				"model"	"models/santahat/santahat.mdl"
+				"position" "0.0 -1.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Dunce Hat"
+			{
+				"model"	"models/duncehat/duncehat.mdl"
+				"position" "0.0 -1.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Sombrero"
+			{
+				"model"	"models/gmod_tower/sombrero.mdl"
+				"position" "0.0 -1.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Cat Ears"
+			{
+				"model"	"models/gmod_tower/catears.mdl"
+				"position" "0.0 -3.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Afro"
+			{
+				"model"	"models/gmod_tower/afro.mdl"
+				"position" "0.0 -3.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Andross Mask"
+			{
+				"model"	"models/gmod_tower/androssmask.mdl"
+				"position" "0.0 2.0 0.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Drink Cap"
+			{
+				"model"	"models/gmod_tower/drinkcap.mdl"
+				"position" "0.0 -1.0 7.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Headcrab Hat"
+			{
+				"model"	"models/gmod_tower/headcrabhat.mdl"
+				"position" "0.0 -3.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Majorasmask"
+			{
+				"model"	"models/gmod_tower/majorasmask.mdl"
+				"position" "0.0 0.5 0.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Toromask"
+			{
+				"model"	"models/gmod_tower/toromask.mdl"
+				"position" "0.0 -1.0 4.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Top Hat"
+			{
+				"model"	"models/gmod_tower/tophat.mdl"
+				"position" "0.0 -1.7 4.5"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Witch Hat"
+			{
+				"model"	"models/gmod_tower/witchhat.mdl"
+				"position" "0.0 0.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Toeto Hat"
+			{
+				"model"	"models/gmod_tower/toetohat.mdl"
+				"position" "0.0 -1.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Party Hat"
+			{
+				"model"	"models/gmod_tower/partyhat.mdl"
+				"position" "1.0 -1.0 7.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Seuss Hat"
+			{
+				"model"	"models/gmod_tower/seusshat.mdl"
+				"position" "0.0 -1.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Link Hat"
+			{
+				"model"	"models/gmod_tower/linkhat.mdl"
+				"position" "0.0 -5.0 4.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+			
+			"Midna Hat"
+			{
+				"model"	"models/gmod_tower/midnahat.mdl"
+				"position" "0.0 0.0 0.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "0"
+			}
+
+			"Seuss Hat "
+			{
+				"model"	"models/store/hats/seusshat.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "0"
+			}
+
+			"Andross Mask "
+			{
+				"model"	"models/store/hats/androssmask.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "0"
+			}
+
+			"Afro "
+			{
+				"model"	"models/store/hats/afro.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "0"
+			}
+
+			"Fedora "
+			{
+				"model"	"models/store/hats/fedorahat.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "0"
+			}
+
+			"KFC Bucket "
+			{
+				"model"	"models/store/hats/kfcbucket.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "0"
+			}
+
+			"Asian Hat "
+			{
+				"model"	"models/store/hats/asian_hat.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "0"
+			}
+
+			"Colonial Tricorn "
+			{
+				"model"	"models/store/hats/colonial_tricorn_v1.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "0"
+			}
+
+			"Deku Scrub Mask "
+			{
+				"model"	"models/store/hats/deku_scrub_mask.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "0"
+			}
+
+			"Goron Mask "
+			{
+				"model"	"models/store/hats/goron_mask.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "0"
+			}
+
+			"Gumby Mask "
+			{
+				"model"	"models/store/hats/gumby_mask_v1.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "0"
+			}
+
+			"Links Hat "
+			{
+				"model"	"models/store/hats/links_hat_v4.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "0"
+			}
+
+			"Uncle Sam "
+			{
+				"model"	"models/store/hats/uncle_sam_hat.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "0"
+			}
+
+			"Daft Punk "
+			{
+				"model"	"models/store/hats/daft_punk_v1.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "0"
+			}
+
+			"Zora Mask "
+			{
+				"model"	"models/store/hats/zora_mask.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "0"
+			}
+
+			"Witch Hat "
+			{
+				"model"	"models/store/hats/witchhat.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "1"
+			}
+		}
+
+		"Masks"
+		{
+			"Porcelain Doll"
+			{
+				"model"	"models/player/holiday/facemasks/porcelain_doll.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Zombie Fortune"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_zombie_fortune_plastic.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Wolf"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_wolf.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Tiki"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tiki.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+
+			"Spy"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_spy_model.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+
+			"Soldier"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_soldier_model.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Sniper"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_sniper_model.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Scout"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_scout_model.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Pyro"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_pyro_model.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Medic"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_medic_model.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Heavy"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_heavy_model.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Engineer"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_engi_model.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Demoman"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_demo_model.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Skull"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_skull.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Skull (Gold)"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_skull_gold.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Sheep"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_sheep_model.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Sheep (Gold)"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_sheep_gold.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Sheep (Bloody)"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_sheep_bloody.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Samurai"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_samurai.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Pumpkin"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_pumpkin.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Porcelain Doll Kabuki"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_porcelain_doll_kabuki.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Hoxton"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_hoxton.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Devil"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_devil_plastic.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Dallas"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_dallas.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Chicken"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_chicken.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Chains"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_chains.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Bunny"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_bunny.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Bunny (Gold)"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_bunny.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Boar"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_boar.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Anaglyph"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_anaglyph.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Evil Clown"
+			{
+				"model"	"models/player/holiday/facemasks/evil_clown.mdl"
+				"attachment" "facemask"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+		}
+
+		"Glasses"
+		{
+			"3D Glasses"
+			{
+				"model"	"models/gmod_tower/3dglasses.mdl"
+				"position" "0.0 0.5 2.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "1"
+			}
+
+			"3D Glasses "
+			{
+				"model"	"models/store/hats/3dglasses.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "1"
+			}
+			
+			"Aviators"
+			{
+				"model"	"models/gmod_tower/aviators.mdl"
+				"position" "0.0 0.5 2.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "1"
+			}
+			
+			"Star Glasses"
+			{
+				"model"	"models/gmod_tower/starglasses.mdl"
+				"position" "0.0 0.5 2.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "1"
+			}
+			
+			"Kliener Glasses"
+			{
+				"model"	"models/gmod_tower/klienerglasses.mdl"
+				"position" "0.0 0.5 2.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "120"
+				"type" "hat"
+				"games" "cstrike"
+				"slot" "1"
+			}
+
+			"Star Glasses "
+			{
+				"model"	"models/store/hats/starglasses.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "1"
+			}
+		}
+
+		"Shields"
+		{
+			"Hylian Shield"
+			{
+				"model"	"models/store/hats/hylian_shield.mdl"
+				"bonemerge" "1"
+				"price" "120"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "2"
+
+				"Attributes"
+				{
+					"health" "20"
+				}
+			}
+		}
+	}
+	
+	"Player Skins"
+	{
+		"Terrorists"
+		{
+			"Duke Nukem"
+			{
+				"model" "models/player/kuristaja/duke4eva/duke/duke.mdl"
+				"team" "2"
+				"price" "120"
+				"type" "playerskin"
+			}
+		}
+		
+		"Counter-Terrorists"
+		{
+			"Nick"
+			{
+				"model" "models/player/techknow/nick/nick.mdl"
+				"team" "3"
+				"price" "120"
+				"type" "playerskin"
+			}
+		}
+	}
+	
+	"Trails"
+	{
+		"8Bit Mushroom"
+		{
+			"material" "materials/sprites/store/trails/8bitmushroom.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"8Bit Pow"
+		{
+			"material" "materials/sprites/store/trails/8bitpow.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Airforce"
+		{
+			"material" "materials/sprites/store/trails/airforce.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Airforce 2"
+		{
+			"material" "materials/sprites/store/trails/airforce2.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Apple"
+		{
+			"material" "materials/sprites/store/trails/apple.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Arrow Rainbow"
+		{
+			"material" "materials/sprites/store/trails/arrowrainbow.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Arrows"
+		{
+			"material" "materials/sprites/store/trails/arrows.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Assasin"
+		{
+			"material" "materials/sprites/store/trails/assasin.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		
+		"Awesome"
+		{
+			"material" "materials/sprites/store/trails/awesome.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Awesome Sad"
+		{
+			"material" "materials/sprites/store/trails/awesome_sad.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Awesome Face"
+		{
+			"material" "materials/sprites/store/trails/awesomeface.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Babyand"
+		{
+			"material" "materials/sprites/store/trails/babyand.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Banknote"
+		{
+			"material" "materials/sprites/store/trails/banknote.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Barcalona"
+		{
+			"material" "materials/sprites/store/trails/barcalona.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Batman"
+		{
+			"material" "materials/sprites/store/trails/batman.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Battlefield"
+		{
+			"material" "materials/sprites/store/trails/battlefield.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Beer Mug"
+		{
+			"material" "materials/sprites/store/trails/beermug.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Biohazard"
+		{
+			"material" "materials/sprites/store/trails/biohazard.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Blade"
+		{
+			"material" "materials/sprites/store/trails/blade.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Blue Lightning"
+		{
+			"material" "materials/sprites/store/trails/bluelightning.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"BMW Logo"
+		{
+			"material" "materials/sprites/store/trails/bmwlogo.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Bom Bomb"
+		{
+			"material" "materials/sprites/store/trails/bombomb.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Boo"
+		{
+			"material" "materials/sprites/store/trails/boo.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Bullet Bill"
+		{
+			"material" "materials/sprites/store/trails/bulletbill.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Bullets"
+		{
+			"material" "materials/sprites/store/trails/bullets.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Canada Flag"
+		{
+			"material" "materials/sprites/store/trails/canadaflag.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Candies"
+		{
+			"material" "materials/sprites/store/trails/candies.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Ccole"
+		{
+			"material" "materials/sprites/store/trails/ccole.vmt"
+			"price" "300"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+	}
+	
+	"Grenade Trails"
+	{
+		"Thin Beam"
+		{
+			"material" "materials/sprites/combineball_trail_black_1.vmt"
+			"price" "120"
+			"type" "grenadetrail"
+			"color" "255 0 255 255"
+		}
+		
+		"Squiggly Beam"
+		{
+			"material" "materials/sprites/hydragutbeam.vmt"
+			"price" "120"
+			"type" "grenadetrail"
+			"color" "255 0 255 255"
+		}
+		
+		"Medium Beam"
+		{
+			"material" "materials/sprites/orangelight1.vmt"
+			"price" "120"
+			"type" "grenadetrail"
+			"color" "255 0 255 255"
+		}
+		
+		"Large Beam"
+		{
+			"material" "materials/sprites/spotlight.vmt"
+			"price" "120"
+			"type" "grenadetrail"
+			"color" "255 0 255 255"
+		}
+		
+		"Red Laserbeam"
+		{
+			"material" "materials/sprites/laserbeam.vmt"
+			"price" "120"
+			"type" "grenadetrail"
+			"color" "255 0 0 255"
+			"unique_id" "grenadetrail_laserbeam_red"
+		}
+		
+		"Blue Laserbeam"
+		{
+			"material" "materials/sprites/laserbeam.vmt"
+			"price" "120"
+			"type" "grenadetrail"
+			"color" "0 0 255 255"
+			"unique_id" "grenadetrail_laserbeam_blue"
+		}
+	}
+	
+	"Grenade Skins"
+	{
+		"HE Grenade"
+		{
+			"Orange"
+			{
+				"model" "models/props/cs_italy/orange.mdl"
+				"grenade" "hegrenade"
+				"price" "60"
+				"type" "grenadeskin"
+			}
+
+			"Tortoise"
+			{
+				"model" "models/props/de_tides/vending_turtle.mdl"
+				"grenade" "hegrenade"
+				"price" "60"
+				"type" "grenadeskin"
+			}
+		}
+		
+		"Flashbang"
+		{	
+			"Banana"
+			{
+				"model" "models/props/cs_italy/bananna.mdl"
+				"grenade" "flashbang"
+				"price" "60"
+				"type" "grenadeskin"
+			}
+		}
+		
+		"Smokegrenade"
+		{
+			"Watermelon"
+			{
+				"model" "models/props_junk/watermelon01.mdl"
+				"grenade" "smokegrenade"
+				"price" "60"
+				"type" "grenadeskin"
+			}
+		}
+	}
+
+	"Weapon Colors"
+	{
+		"Antique White"
+		{
+			"color" "205 192 176 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Alice Blue"
+		{
+			"color" "240 248 255  255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Blue"
+		{
+			"color" "0 0 255 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Blue Violet"
+		{
+			"color" "138 43 226 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Corn Silk"
+		{
+			"color" "255 248 220 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Cyan"
+		{
+			"color" "0 255 255 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Dark Khaki"
+		{
+			"color" "189 183 107 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Dim Grey"
+		{
+			"color" "105 105 105 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Fire Brick"
+		{
+			"color" "178 34 34 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Fuschia"
+		{
+			"color" "255 0 255 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Gray"
+		{
+			"color" "240 240 240 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Green"
+		{
+			"color" "0 255 0 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Hunter Green"
+		{
+			"color" "35 142 35 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Lawn Green"
+		{
+			"color" "124 1202 0 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Navajo White"
+		{
+			"color" "255 222 173 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Olive"
+		{
+			"color" "128 128 0 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Olive Brown"
+		{
+			"color" "128 255 165 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Olive Drab"
+		{
+			"color" "607 142 35 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Orange"
+		{
+			"color" "255 77 0 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Orchid"
+		{
+			"color" "218 112 214 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Pale Turquoise"
+		{
+			"color" "175 238 238 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Purple"
+		{
+			"color" "128 0 128 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Pink"
+		{
+			"color" "255 103 103 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Plum"
+		{
+			"color" "221 160 221 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Red"
+		{
+			"color" "255 0 0 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Sea Blue"
+		{
+			"color" "43 176 205 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Sandy Brown"
+		{
+			"color" "244 164 96 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Sienna"
+		{
+			"color" "180 82 45 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Silver"
+		{
+			"color" "192 192 192 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Scarlet"
+		{
+			"color" "140 23 23 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Seal Green"
+		{
+			"color" "128 255 165 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Steel Blue"
+		{
+			"color" "35 107 142 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Teal"
+		{
+			"color" "0 128 128 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Turquoise"
+		{
+			"color" "64 224 208 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Violet"
+		{
+			"color" "148 0 211 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+		"Yellow"
+		{
+			"color" "255 255 0 255"
+			"price" "60"
+			"type" "weaponcolor"
+		}
+	}
+
+	"Chat stuff"
+	{
+		"Name Tags"
+		{
+			"Newbie"
+			{
+				"tag" "{lightblue}[Newbie]{teamcolor} "
+				"price" "60"
+				"type" "nametag"
+			}
+			"Wannabe"
+			{
+				"tag" "{red}[Wannabe]{teamcolor} "
+				"price" "90"
+				"type" "nametag"
+			}
+			"Ex-Con"
+			{
+				"tag" "{black}[Ex-Con]{teamcolor} "
+				"price" "120"
+				"type" "nametag"
+			}
+			"Officer"
+			{
+				"tag" "{lightblue}[Officer]{teamcolor} "
+				"price" "120"
+				"type" "nametag"
+			}
+			"S.W.A.T"
+			{
+				"tag" "{blue}[S.W.A.T]{teamcolor} "
+				"price" "120"
+				"type" "nametag"
+			}
+			"420"
+			{
+				"tag" "{green}[420]{teamcolor} "
+				"price" "180"
+				"type" "nametag"
+			}
+			"Equinox"
+			{
+				"tag" "{pink}[Equinox]{teamcolor} "
+				"price" "300"
+				"type" "nametag"
+			}
+		}
+		
+		"Name Colors"
+		{
+			"Alice Blue"
+			{
+				"color" "{aliceblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Antique White"
+			{
+				"color" "{antiquewhite}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Aqua"
+			{
+				"color" "{aqua}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Aquamarine"
+			{
+				"color" "{aquamarine}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Azure"
+			{
+				"color" "{azure}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Beige"
+			{
+				"color" "{beige}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Bisque"
+			{
+				"color" "{bisque}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Black"
+			{
+				"color" "{black}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Blanche Dalmond"
+			{
+				"color" "{blanchedalmond}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Blue"
+			{
+				"color" "{blue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Blue Violet"
+			{
+				"color" "{blueviolet}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Brown"
+			{
+				"color" "{brown}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Burly Wood"
+			{
+				"color" "{burlywood}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Cadet Blue"
+			{
+				"color" "{cadetblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Chartreuse"
+			{
+				"color" "{chartreuse}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Chocolate"
+			{
+				"color" "{chocolate}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Community"
+			{
+				"color" "{community}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Coral"
+			{
+				"color" "{coral}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Cornflower Blue"
+			{
+				"color" "{cornflowerblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Corn Silk"
+			{
+				"color" "{cornsilk}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Crimson"
+			{
+				"color" "{crimson}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+			"Cyan"
+			{
+				"color" "{cyan}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Blue"
+			{
+				"color" "{darkblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Cyan"
+			{
+				"color" "{darkcyan}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Golden Rod"
+			{
+				"color" "{darkgoldenrod}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Gray"
+			{
+				"color" "{darkgray}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Green"
+			{
+				"color" "{darkgreen}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark khaki"
+			{
+				"color" "{darkkhaki}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark magenta"
+			{
+				"color" "{darkmagenta}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark oliveGreen"
+			{
+				"color" "{darkolivegreen}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark orange"
+			{
+				"color" "{darkorange}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Orchid"
+			{
+				"color" "{darkorchid}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Red"
+			{
+				"color" "{darkred}"
+				"price" "60"
+				"type" "namecolor"
+			}
+
+			"Dark salmon"
+			{
+				"color" "{darksalmon}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Sea Green"
+			{
+				"color" "{darkseagreen}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark SlateBlue"
+			{
+				"color" "{darkslateblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Slategray"
+			{
+				"color" "{darkslategray}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Turquoise"
+			{
+				"color" "{darkturquoise}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Violet"
+			{
+				"color" "{darkviolet}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Deep Pink"
+			{
+				"color" "{deeppink}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Deep Skyblue"
+			{
+				"color" "{deepskyblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dimgray"
+			{
+				"color" "{dimgray}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dodger Blue"
+			{
+				"color" "{dodgerblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Firebrick"
+			{
+				"color" "{firebrick}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Floral White"
+			{
+				"color" "{floralwhite}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Forest Green"
+			{
+				"color" "{forestgreen}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Fuchsia"
+			{
+				"color" "{fuchsia}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Full Blue"
+			{
+				"color" "{fullblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Full Red"
+			{
+				"color" "{fullred}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Gainsboro"
+			{
+				"color" "{gainsboro}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Genuine"
+			{
+				"color" "{genuine}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Ghost White"
+			{
+				"color" "{ghostwhite}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Gold"
+			{
+				"color" "{gold}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Goldenrod"
+			{
+				"color" "{goldenrod}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Gray"
+			{
+				"color" "{gray}"
+				"price" "60"
+				"type" "namecolor"
+			}
+
+			"Green"
+			{
+				"color" "{green}"
+				"price" "60"
+				"type" "namecolor"
+			}
+
+			"Green Yellow"
+			{
+				"color" "{greenyellow}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Haunted"
+			{
+				"color" "{haunted}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Honeydew"
+			{
+				"color" "{honeydew}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Hot Pink"
+			{
+				"color" "{hotpink}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Indian Red"
+			{
+				"color" "{indianred}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Indigo"
+			{
+				"color" "{indigo}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Ivory"
+			{
+				"color" "{ivory}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Khaki"
+			{
+				"color" "{khaki}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Lavender"
+			{
+				"color" "{lavender}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Lavender Blush"
+			{
+				"color" "{lavenderblush}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Lawn Green"
+			{
+				"color" "{lawngreen}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Lemon Chiffon"
+			{
+				"color" "{lemonchiffon}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Blue"
+			{
+				"color" "{lightblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Coral"
+			{
+				"color" "{lightcoral}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Cyan"
+			{
+				"color" "{lightcyan}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Goldenrod Yellow"
+			{
+				"color" "{lightgoldenrodyellow}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Red"
+			{
+				"color" "{lightred}"
+				"price" "60"
+				"type" "namecolor"
+			}
+
+			"Light Gray"
+			{
+				"color" "{lightgray}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Green"
+			{
+				"color" "{lightgreen}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Pink"
+			{
+				"color" "{lightpink}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Salmon"
+			{
+				"color" "{lightsalmon}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Sea Green"
+			{
+				"color" "{lightseagreen}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Skyblue"
+			{
+				"color" "{lightskyblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Slategray"
+			{
+				"color" "{lightslategray}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Steel Blue"
+			{
+				"color" "{lightsteelblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Yellow"
+			{
+				"color" "{lightyellow}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Lime"
+			{
+				"color" "{lime}"
+				"price" "60"
+				"type" "namecolor"
+			}
+
+			"Lime Green"
+			{
+				"color" "{limegreen}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Linen"
+			{
+				"color" "{linen}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Magenta"
+			{
+				"color" "{magenta}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Maroon"
+			{
+				"color" "{maroon}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Aquamarine"
+			{
+				"color" "{mediumaquamarine}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Blue"
+			{
+				"color" "{mediumblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Orchid"
+			{
+				"color" "{mediumorchid}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Purple"
+			{
+				"color" "{mediumpurple}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Sea Green"
+			{
+				"color" "{mediumseagreen}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Slate Blue"
+			{
+				"color" "{mediumslateblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Spring Green"
+			{
+				"color" "{mediumspringgreen}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Turquoise"
+			{
+				"color" "{mediumturquoise}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Violet Red"
+			{
+				"color" "{mediumvioletred}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Midnight Blue"
+			{
+				"color" "{midnightblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Mintcream"
+			{
+				"color" "{mintcream}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Misty Rose"
+			{
+				"color" "{mistyrose}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Moccasin"
+			{
+				"color" "{moccasin}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Navajo White"
+			{
+				"color" "{navajowhite}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Navy"
+			{
+				"color" "{navy}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Old Lace"
+			{
+				"color" "{oldlace}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Olive"
+			{
+				"color" "{olive}"
+				"price" "60"
+				"type" "namecolor"
+			}
+
+			"Olive Drab"
+			{
+				"color" "{olivedrab}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Orange"
+			{
+				"color" "{orange}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Orange Red"
+			{
+				"color" "{orangered}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Orchid"
+			{
+				"color" "{orchid}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Pale Golden Rod"
+			{
+				"color" "{palegoldenrod}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Pale Green"
+			{
+				"color" "{palegreen}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Pale Turquoise"
+			{
+				"color" "{paleturquoise}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Pale violetRed"
+			{
+				"color" "{palevioletred}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Papaya Whip"
+			{
+				"color" "{papayawhip}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Peach Puff"
+			{
+				"color" "{peachpuff}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Peru"
+			{
+				"color" "{peru}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Pink"
+			{
+				"color" "{pink}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Plum"
+			{
+				"color" "{plum}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Powder Blue"
+			{
+				"color" "{powderblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Purple"
+			{
+				"color" "{purple}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Red"
+			{
+				"color" "{red}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Rosy Brown"
+			{
+				"color" "{rosybrown}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Royal Blue"
+			{
+				"color" "{royalblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Saddle Brown"
+			{
+				"color" "{saddlebrown}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Salmon"
+			{
+				"color" "{salmon}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Sandy Brown"
+			{
+				"color" "{sandybrown}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Sea Green"
+			{
+				"color" "{seagreen}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Seashell"
+			{
+				"color" "{seashell}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Sienna"
+			{
+				"color" "{sienna}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Silver"
+			{
+				"color" "{silver}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Skyblue"
+			{
+				"color" "{skyblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Slate blue"
+			{
+				"color" "{slateblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Slate Gray"
+			{
+				"color" "{slategray}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Snow"
+			{
+				"color" "{snow}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Spring Green"
+			{
+				"color" "{springgreen}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Steel Blue"
+			{
+				"color" "{steelblue}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Tan"
+			{
+				"color" "{tan}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Teal"
+			{
+				"color" "{teal}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Thistle"
+			{
+				"color" "{thistle}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Tomato"
+			{
+				"color" "{tomato}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Turquoise"
+			{
+				"color" "{turquoise}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Violet"
+			{
+				"color" "{violet}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Wheat"
+			{
+				"color" "{wheat}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"White"
+			{
+				"color" "{white}"
+				"price" "60"
+				"type" "namecolor"
+			}
+
+			"Yellow"
+			{
+				"color" "{yellow}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+
+			"Yellow Green"
+			{
+				"color" "{yellowgreen}"
+				"price" "60"
+				"type" "namecolor"
+				"games" "tf,cstrike"
+			}
+		}
+		
+		"Message Colors"
+		{
+			"Alice Blue"
+			{
+				"color" "{aliceblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Antique White"
+			{
+				"color" "{antiquewhite}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Aqua"
+			{
+				"color" "{aqua}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Aquamarine"
+			{
+				"color" "{aquamarine}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Azure"
+			{
+				"color" "{azure}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Beige"
+			{
+				"color" "{beige}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Bisque"
+			{
+				"color" "{bisque}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Black"
+			{
+				"color" "{black}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Blanche Dalmond"
+			{
+				"color" "{blanchedalmond}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Blue"
+			{
+				"color" "{blue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Blue Violet"
+			{
+				"color" "{blueviolet}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Brown"
+			{
+				"color" "{brown}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Burly Wood"
+			{
+				"color" "{burlywood}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Cadet Blue"
+			{
+				"color" "{cadetblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Chartreuse"
+			{
+				"color" "{chartreuse}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Chocolate"
+			{
+				"color" "{chocolate}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Community"
+			{
+				"color" "{community}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Coral"
+			{
+				"color" "{coral}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Cornflower Blue"
+			{
+				"color" "{cornflowerblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Corn Silk"
+			{
+				"color" "{cornsilk}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Crimson"
+			{
+				"color" "{crimson}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Cyan"
+			{
+				"color" "{cyan}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Blue"
+			{
+				"color" "{darkblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Cyan"
+			{
+				"color" "{darkcyan}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Golden Rod"
+			{
+				"color" "{darkgoldenrod}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Gray"
+			{
+				"color" "{darkgray}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Green"
+			{
+				"color" "{darkgreen}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark khaki"
+			{
+				"color" "{darkkhaki}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark magenta"
+			{
+				"color" "{darkmagenta}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark oliveGreen"
+			{
+				"color" "{darkolivegreen}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark orange"
+			{
+				"color" "{darkorange}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Orchid"
+			{
+				"color" "{darkorchid}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Red"
+			{
+				"color" "{darkred}"
+				"price" "120"
+				"type" "msgcolor"
+			}
+
+			"Dark salmon"
+			{
+				"color" "{darksalmon}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Sea Green"
+			{
+				"color" "{darkseagreen}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark SlateBlue"
+			{
+				"color" "{darkslateblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Slategray"
+			{
+				"color" "{darkslategray}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Turquoise"
+			{
+				"color" "{darkturquoise}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Violet"
+			{
+				"color" "{darkviolet}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Deep Pink"
+			{
+				"color" "{deeppink}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Deep Skyblue"
+			{
+				"color" "{deepskyblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dimgray"
+			{
+				"color" "{dimgray}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dodger Blue"
+			{
+				"color" "{dodgerblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Firebrick"
+			{
+				"color" "{firebrick}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Floral White"
+			{
+				"color" "{floralwhite}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Forest Green"
+			{
+				"color" "{forestgreen}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Fuchsia"
+			{
+				"color" "{fuchsia}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Full Blue"
+			{
+				"color" "{fullblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Full Red"
+			{
+				"color" "{fullred}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Gainsboro"
+			{
+				"color" "{gainsboro}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Genuine"
+			{
+				"color" "{genuine}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Ghost White"
+			{
+				"color" "{ghostwhite}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Gold"
+			{
+				"color" "{gold}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Goldenrod"
+			{
+				"color" "{goldenrod}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Gray"
+			{
+				"color" "{gray}"
+				"price" "120"
+				"type" "msgcolor"
+			}
+
+			"Green"
+			{
+				"color" "{green}"
+				"price" "120"
+				"type" "msgcolor"
+			}
+
+			"Green Yellow"
+			{
+				"color" "{greenyellow}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Haunted"
+			{
+				"color" "{haunted}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Honeydew"
+			{
+				"color" "{honeydew}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Hot Pink"
+			{
+				"color" "{hotpink}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Indian Red"
+			{
+				"color" "{indianred}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Indigo"
+			{
+				"color" "{indigo}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Ivory"
+			{
+				"color" "{ivory}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Khaki"
+			{
+				"color" "{khaki}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Lavender"
+			{
+				"color" "{lavender}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Lavender Blush"
+			{
+				"color" "{lavenderblush}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Lawn Green"
+			{
+				"color" "{lawngreen}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Lemon Chiffon"
+			{
+				"color" "{lemonchiffon}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Blue"
+			{
+				"color" "{lightblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Coral"
+			{
+				"color" "{lightcoral}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Cyan"
+			{
+				"color" "{lightcyan}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Goldenrod Yellow"
+			{
+				"color" "{lightgoldenrodyellow}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Gray"
+			{
+				"color" "{lightgray}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Red"
+			{
+				"color" "{lightred}"
+				"price" "120"
+				"type" "msgcolor"
+			}
+
+			"Light Green"
+			{
+				"color" "{lightgreen}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Pink"
+			{
+				"color" "{lightpink}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Salmon"
+			{
+				"color" "{lightsalmon}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Sea Green"
+			{
+				"color" "{lightseagreen}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Skyblue"
+			{
+				"color" "{lightskyblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Slategray"
+			{
+				"color" "{lightslategray}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Steel Blue"
+			{
+				"color" "{lightsteelblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Yellow"
+			{
+				"color" "{lightyellow}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Lime"
+			{
+				"color" "{lime}"
+				"price" "120"
+				"type" "msgcolor"
+			}
+
+			"Lime Green"
+			{
+				"color" "{limegreen}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Linen"
+			{
+				"color" "{linen}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Magenta"
+			{
+				"color" "{magenta}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Maroon"
+			{
+				"color" "{maroon}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Aquamarine"
+			{
+				"color" "{mediumaquamarine}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Blue"
+			{
+				"color" "{mediumblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Orchid"
+			{
+				"color" "{mediumorchid}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Purple"
+			{
+				"color" "{mediumpurple}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Sea Green"
+			{
+				"color" "{mediumseagreen}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Slate Blue"
+			{
+				"color" "{mediumslateblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Spring Green"
+			{
+				"color" "{mediumspringgreen}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Turquoise"
+			{
+				"color" "{mediumturquoise}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Violet Red"
+			{
+				"color" "{mediumvioletred}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Midnight Blue"
+			{
+				"color" "{midnightblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Mintcream"
+			{
+				"color" "{mintcream}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Misty Rose"
+			{
+				"color" "{mistyrose}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Moccasin"
+			{
+				"color" "{moccasin}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Navajo White"
+			{
+				"color" "{navajowhite}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Navy"
+			{
+				"color" "{navy}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Old Lace"
+			{
+				"color" "{oldlace}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Olive"
+			{
+				"color" "{olive}"
+				"price" "120"
+				"type" "msgcolor"
+			}
+
+			"Olive Drab"
+			{
+				"color" "{olivedrab}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Orange"
+			{
+				"color" "{orange}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Orange Red"
+			{
+				"color" "{orangered}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Orchid"
+			{
+				"color" "{orchid}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Pale Golden Rod"
+			{
+				"color" "{palegoldenrod}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Pale Green"
+			{
+				"color" "{palegreen}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Pale Turquoise"
+			{
+				"color" "{paleturquoise}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Pale violetRed"
+			{
+				"color" "{palevioletred}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Papaya Whip"
+			{
+				"color" "{papayawhip}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Peach Puff"
+			{
+				"color" "{peachpuff}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Peru"
+			{
+				"color" "{peru}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Pink"
+			{
+				"color" "{pink}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Plum"
+			{
+				"color" "{plum}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Powder Blue"
+			{
+				"color" "{powderblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Purple"
+			{
+				"color" "{purple}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Red"
+			{
+				"color" "{red}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Rosy Brown"
+			{
+				"color" "{rosybrown}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Royal Blue"
+			{
+				"color" "{royalblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Saddle Brown"
+			{
+				"color" "{saddlebrown}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Salmon"
+			{
+				"color" "{salmon}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Sandy Brown"
+			{
+				"color" "{sandybrown}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Sea Green"
+			{
+				"color" "{seagreen}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Seashell"
+			{
+				"color" "{seashell}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Sienna"
+			{
+				"color" "{sienna}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Silver"
+			{
+				"color" "{silver}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Skyblue"
+			{
+				"color" "{skyblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Slate blue"
+			{
+				"color" "{slateblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Slate Gray"
+			{
+				"color" "{slategray}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Snow"
+			{
+				"color" "{snow}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Spring Green"
+			{
+				"color" "{springgreen}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Steel Blue"
+			{
+				"color" "{steelblue}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Tan"
+			{
+				"color" "{tan}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Teal"
+			{
+				"color" "{teal}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Thistle"
+			{
+				"color" "{thistle}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Tomato"
+			{
+				"color" "{tomato}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Turquoise"
+			{
+				"color" "{turquoise}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Violet"
+			{
+				"color" "{violet}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Wheat"
+			{
+				"color" "{wheat}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"White"
+			{
+				"color" "{white}"
+				"price" "120"
+				"type" "msgcolor"
+			}
+
+			"Yellow"
+			{
+				"color" "{yellow}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Yellow Green"
+			{
+				"color" "{yellowgreen}"
+				"price" "120"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+		}
+	}
+
+	"Miscellaneous"
+	{
+		"Bunnyhop"
+		{
+			"price" "500"
+			"type" "bunnyhop"
+		}
+
+		"Jetpack"
+		{
+			"price" "500"
+			"type" "jetpack"
+		}
+
+		"Paintball"
+		{
+			"price" "500"
+			"type" "paintball"
+			"Decals"
+			{
+				"cyan"
+				{
+					"material"   "paintball/pb_cyan.vmt"
+				}
+				"green"
+				{
+					"material"   "paintball/pb_green.vmt"
+				}
+				"pink"
+				{
+					"material"   "paintball/pb_pink.vmt"
+				}
+				"orange"
+				{
+					"material"   "paintball/pb_orange.vmt"
+				}
+				"yellow"
+				{
+					"material"   "paintball/pb_yellow.vmt"
+				}
+			}
+		}
+	}
+
+	"Unusual Effects"
+    {
+        "Flying Bits"
+        {
+            "unusual_id" "2"
+            "price" "180"
+            "type" "tfunusual"
+        }
+
+        "Nemesis Burst"
+        {
+            "unusual_id" "3"
+            "price" "180"
+            "type" "tfunusual"
+        }
+
+        "Community Sparkle"
+        {
+            "unusual_id" "4"
+            "price" "180"
+            "type" "tfunusual"
+        }
+
+        "Holy Glow"
+        {
+            "unusual_id" "5"
+            "price" "180"
+            "type" "tfunusual"
+        }
+
+        "Green Confetti"
+        {
+            "unusual_id" "6"
+            "price" "180"
+            "type" "tfunusual"
+        }
+
+        "Purple Confetti"
+        {
+            "unusual_id" "7"
+            "price" "180"
+            "type" "tfunusual"
+        }
+
+        "Haunted Ghosts"
+        {
+            "unusual_id" "8"
+            "price" "200"
+            "type" "tfunusual"
+        }
+
+        "Green Energy"
+        {
+            "unusual_id" "9"
+            "price" "200"
+            "type" "tfunusual"
+        }
+
+        "Purple Energy"
+        {
+            "unusual_id" "10"
+            "price" "200"
+            "type" "tfunusual"
+        }
+
+        "Circling TF Logo"
+        {
+            "unusual_id" "11"
+            "price" "200"
+            "type" "tfunusual"
+        }
+
+        "Massed Flies"
+        {
+            "unusual_id" "12"
+            "price" "200"
+            "type" "tfunusual"
+        }
+
+        "Burning Flames"
+        {
+            "unusual_id" "13"
+            "price" "200"
+            "type" "tfunusual"
+        }
+
+        "Scorching Flames"
+        {
+            "unusual_id" "14"
+            "price" "280"
+            "type" "tfunusual"
+        }
+
+        "Searing Plasma"
+        {
+            "unusual_id" "15"
+            "price" "280"
+            "type" "tfunusual"
+        }
+
+        "Vivid Plasma"
+        {
+            "unusual_id" "16"
+            "price" "280"
+            "type" "tfunusual"
+        }
+
+        "Sunbeams"
+        {
+            "unusual_id" "17"
+            "price" "280"
+            "type" "tfunusual"
+        }
+
+        "Circling Peace Sign"
+        {
+            "unusual_id" "18"
+            "price" "280"
+            "type" "tfunusual"
+        }
+
+        "Circling Heart"
+        {
+            "unusual_id" "19"
+            "price" "280"
+            "type" "tfunusual"
+        }
+
+        "Map Stamps"
+        {
+            "unusual_id" "20"
+            "price" "280"
+            "type" "tfunusual"
+        }
+
+        "Genteel Smoke"
+        {
+            "unusual_id" "28"
+            "price" "360"
+            "type" "tfunusual"
+        }
+
+        "Stormy Storm"
+        {
+            "unusual_id" "29"
+            "price" "360"
+            "type" "tfunusual"
+        }
+
+        "Blizzardy Storm"
+        {
+            "unusual_id" "30"
+            "price" "360"
+            "type" "tfunusual"
+        }
+
+        "Nuts n' Bolts"
+        {
+            "unusual_id" "31"
+            "price" "360"
+            "type" "tfunusual"
+        }
+
+        "Orbiting Planets"
+        {
+            "unusual_id" "32"
+            "price" "360"
+            "type" "tfunusual"
+        }
+
+        "Orbiting Fire"
+        {
+            "unusual_id" "33"
+            "price" "360"
+            "type" "tfunusual"
+        }
+
+        "Bubbling"
+        {
+            "unusual_id" "34"
+            "price" "360"
+            "type" "tfunusual"
+        }
+
+        "Smoking"
+        {
+            "unusual_id" "35"
+            "price" "360"
+            "type" "tfunusual"
+        }
+
+        "Steaming"
+        {
+            "unusual_id" "36"
+            "price" "360"
+            "type" "tfunusual"
+        }
+
+        "Flaming Lantern"
+        {
+            "unusual_id" "37"
+            "price" "360"
+            "type" "tfunusual"
+        }
+
+        "Cloudy Moon"
+        {
+            "unusual_id" "38"
+            "price" "360"
+            "type" "tfunusual"
+        }
+
+        "Cauldron Bubbles"
+        {
+            "unusual_id" "39"
+            "price" "360"
+            "type" "tfunusual"
+        }
+
+        "Eerie Orbiting Fire"
+        {
+            "unusual_id" "40"
+            "price" "440"
+            "type" "tfunusual"
+        }
+
+        "Knifestorm"
+        {
+            "unusual_id" "43"
+            "price" "440"
+            "type" "tfunusual"
+        }
+
+        "Misty Skull"
+        {
+            "unusual_id" "44"
+            "price" "440"
+            "type" "tfunusual"
+        }
+
+        "Harvest Moon"
+        {
+            "unusual_id" "45"
+            "price" "440"
+            "type" "tfunusual"
+        }
+
+        "It's A Secret To Everybody"
+        {
+            "unusual_id" "46"
+            "price" "440"
+            "type" "tfunusual"
+        }
+
+        "Stormy 13th Hour"
+        {
+            "unusual_id" "47"
+            "price" "440"
+            "type" "tfunusual"
+        }
+
+        "Attrib_Particle55"
+        {
+            "unusual_id" "55"
+            "price" "440"
+            "type" "tfunusual"
+        }
+
+        "Kill-a-Watt"
+        {
+            "unusual_id" "56"
+            "price" "440"
+            "type" "tfunusual"
+        }
+
+        "Terror-Watt"
+        {
+            "unusual_id" "57"
+            "price" "440"
+            "type" "tfunusual"
+        }
+
+        "Cloud 9"
+        {
+            "unusual_id" "58"
+            "price" "440"
+            "type" "tfunusual"
+        }
+
+        "Aces High"
+        {
+            "unusual_id" "59"
+            "price" "440"
+            "type" "tfunusual"
+        }
+
+        "Dead Presidents"
+        {
+            "unusual_id" "180"
+            "type" "tfunusual"
+            "price" "440"
+            "type" "tfunusual"
+        }
+
+        "Miami Nights"
+        {
+            "unusual_id" "61"
+            "price" "180"
+            "type" "tfunusual"
+        }
+
+        "Disco Beat Down"
+        {
+            "unusual_id" "62"
+            "price" "520"
+            "type" "tfunusual"
+        }
+
+        "Phosphorous"
+        {
+            "unusual_id" "63"
+            "price" "520"
+            "type" "tfunusual"
+        }
+
+        "Sulphurous"
+        {
+            "unusual_id" "64"
+            "price" "520"
+            "type" "tfunusual"
+        }
+
+        "Memory Leak"
+        {
+            "unusual_id" "65"
+            "price" "520"
+            "type" "tfunusual"
+        }
+
+        "Overclocked"
+        {
+            "unusual_id" "66"
+            "price" "520"
+            "type" "tfunusual"
+        }
+
+        "Electrostatic"
+        {
+            "unusual_id" "67"
+            "price" "520"
+            "type" "tfunusual"
+        }
+
+        "Power Surge"
+        {
+            "unusual_id" "68"
+            "price" "520"
+            "type" "tfunusual"
+        }
+
+        "Anti-Freeze"
+        {
+            "unusual_id" "69"
+            "price" "520"
+            "type" "tfunusual"
+        }
+
+        "Time Warp"
+        {
+            "unusual_id" "70"
+            "price" "520"
+            "type" "tfunusual"
+        }
+
+        "Green Black Hole"
+        {
+            "unusual_id" "71"
+            "price" "520"
+            "type" "tfunusual"
+        }
+
+        "Roboactive"
+        {
+            "unusual_id" "72"
+            "price" "520"
+            "type" "tfunusual"
+        }
+
+        "Arcana"
+        {
+            "unusual_id" "73"
+            "price" "520"
+            "type" "tfunusual"
+        }
+
+        "Spellbound"
+        {
+            "unusual_id" "74"
+            "price" "600"
+            "type" "tfunusual"
+        }
+
+        "Chiroptera Venenata"
+        {
+            "unusual_id" "75"
+            "price" "600"
+            "type" "tfunusual"
+        }
+
+        "Poisoned Shadows"
+        {
+            "unusual_id" "76"
+            "price" "600"
+            "type" "tfunusual"
+        }
+
+        "Something Burning This Way Comes"
+        {
+            "unusual_id" "77"
+            "price" "600"
+            "type" "tfunusual"
+        }
+
+        "Hellfire"
+        {
+            "unusual_id" "78"
+            "price" "600"
+            "type" "tfunusual"
+        }
+
+        "Darkblaze"
+        {
+            "unusual_id" "79"
+            "price" "600"
+            "type" "tfunusual"
+        }
+
+        "Demonflame"
+        {
+            "unusual_id" "80"
+            "price" "600"
+            "type" "tfunusual"
+        }
+
+        "Showstopper"
+        {
+            "unusual_id" "3002"
+            "price" "600"
+            "type" "tfunusual"
+        }
+
+        "Holy Grail"
+        {
+            "unusual_id" "3003"
+            "price" "600"
+            "type" "tfunusual"
+        }
+        "Fountain of Delight"
+        {
+            "unusual_id" "3005"
+            "price" "600"
+            "type" "tfunusual"
+        }
+
+        "Screaming Tiger"
+        {
+            "unusual_id" "3006"
+            "price" "600"
+            "type" "tfunusual"
+        }
+
+        "Skill Gotten Gains"
+        {
+            "unusual_id" "3007"
+            "price" "600"
+            "type" "tfunusual"
+        }
+
+        "Midnight Whirlwind"
+        {
+            "unusual_id" "3008"
+            "price" "600"
+            "type" "tfunusual"
+        }
+
+        "Silver Cyclone"
+        {
+            "unusual_id" "3009"
+            "price" "600"
+            "type" "tfunusual"
+        }
+
+        "Mega Strike"
+        {
+            "unusual_id" "3010"
+            "price" "600"
+            "type" "tfunusual"
+        }
+    }
+
+	"Paint Cans"
+	{
+		"A Color Similar to Slate"
+		{
+			"color" "47 79 79"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"A Deep Commitment to Purple"
+		{
+			"color" "125 64 113"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"A Distinctive Lack of Hue"
+		{
+			"color" "20 20 20"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"A Mann's Mint"
+		{
+			"color" "188 221 179"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"After Eight"
+		{
+			"color" "45 45 36"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"Aged Moustache Grey"
+		{
+			"color" "126 126 126"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"An Extraordinary Abundance of Tinge"
+		{
+			"color" "230 230 230"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"Australium Gold"
+		{
+			"color" "231 181 59"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"Color No. 216-190-216 "
+		{
+			"color" "216 190 216"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"Dark Salmon Injustice"
+		{
+			"color" "233 150 122"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"Drably Olive"
+		{
+			"color" "128 128 0"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"Indubitably Green"
+		{
+			"color" "114 158 66"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"Mann Co. Orange"
+		{
+			"color" "207 115 54"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"Muskelmannbraun"
+		{
+			"color" "165 117 69"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"Noble Hatter's Violet"
+		{
+			"color" "81 56 74"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"Peculiarly Drab Tincture"
+		{
+			"color" "197 175 145"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+		"Pink as Hell"
+		{
+			"color" "255 105 180"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"Radigan Conagher Brown"
+		{
+			"color" "105 77 58"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"The Bitter Taste of Defeat and Lime"
+		{
+			"color" "50 205 50"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"The Color of a Gentlemann's Business Pants"
+		{
+			"color" "240 230 140"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"Ye Olde Rustic Colour"
+		{
+			"color" "124 108 87"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+
+		"Zepheniah's Greed"
+		{
+			"color" "66 79 59"
+			"price" "60"
+			"type" "tyhatdye"
+		}
+	}
+}

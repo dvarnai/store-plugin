@@ -1,0 +1,38 @@
+"VertexLitGeneric"
+{
+	$baseTexture "models/gmod_tower/viking_ct.vtf"
+	"$detail" "models/gmod_tower/viking_ct.vtf"	
+	"$detailscale" "5"
+	"$detailblendfactor" .01
+	"$detailblendmode" 6
+
+
+	
+	"$phong" "1"
+	"$phongexponent" "160"
+	"$phongboost" "1"
+	"$lightwarptexture" "models/gmod_tower/lightwarp.vtf"
+	"$phongfresnelranges"	"[.25 1 4]"
+	"$basemapalphaphongmask" "1"
+
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2"										// Boost for ambient cube component of rim lighting
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$detail"
+			"animatedtextureframenumvar" "$detailframe"
+			"animatedtextureframerate" 30
+		}
+
+	}
+
+}

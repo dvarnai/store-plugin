@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/store/hats/zora_mask"
+	"$bumpmap" "models/store/hats/zora_mask_normal"
+	"$model" 1
+	"$nocull" 1
+}

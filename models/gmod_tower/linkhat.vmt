@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gmod_tower/linkhat"
+	"$nocull" 1
+}

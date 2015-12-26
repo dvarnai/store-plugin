@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/store/hats/colonial_tricorn"
+	"$model" 1
+	"$nocull" 1
+}

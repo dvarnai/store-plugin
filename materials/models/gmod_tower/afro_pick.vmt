@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\gmod_tower\afro_pick"
+	"$model" 1
+	"$translucent" 1
+}

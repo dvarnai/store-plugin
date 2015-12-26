@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\custom\player\hatsunemiku\MikuHead_Blue"
+	"$bumpmap" "models\custom\player\hatsunemiku\MikuHeadNormal"
+//	"$envmap" "env_cubemap"	
+//	"$envmapmask" "models\custom\player\hatsunemiku\MikuHeadSpec"
+//	"$normalmapalphaenvmapmask" 1
+//	"$envmapcontrast" 1
+	"$surfaceprop" "flesh"
+	"$selfillum" 1
+	"$selfillumtint" "[2 1 1]"
+	"$model" 1
+	"$nocull" 1
+	//"$selfillummask" "naluriv3\NaluriHeadNewlight" 
+
+	"$phong" "1"
+//	"$phongexponenttexture" "models\custom\player\hatsunemiku\MikuHeadSpec"
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$halflambert" "1"
+
+}

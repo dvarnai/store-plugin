@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gmod_tower/B_crown"
+	"$bumpmap" "models/gmod_tower/B_crown_bump"
+	"$surfaceprop" "Glass"
+
+
+
+	$phong 1
+	$phongexponent 10
+	$phongexponenttexture "models/gmod_tower/B_crown_exp"
+	$phongboost	6
+	$phongfresnelranges	"[0.5 0.2 1]"
+}

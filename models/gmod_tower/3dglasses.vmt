@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\gmod_tower\3dglasses"
+	"$model" 1
+	"$nocull" 1
+	"$alphatest" 1
+}

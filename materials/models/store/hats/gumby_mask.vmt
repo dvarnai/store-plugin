@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/store/hats/gumby_mask"
+	"$model" 1
+	"$nocull" 1
+}

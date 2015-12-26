@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\gmod_tower\drinkcap"
+	"$translucent" "1"
+	"$model" 1
+	"$nocull" 1
+	"$phong" "1"
+//	"$phongexponent" 33
+	"$phongexponenttexture" "models\gmod_tower\drinkcap_p"
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+}

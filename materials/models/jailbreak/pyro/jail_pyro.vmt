@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jailbreak/pyro/jail_pyro"
+	"$surfaceprop" "Flesh"
+}

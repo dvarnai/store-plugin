@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jailbreak/heavy/jail_heavy"
+	"$surfaceprop" "Flesh"
+}

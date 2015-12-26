@@ -1,0 +1,32 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\items\imperialguardhelmet\imperial_helmet"
+	"$bumpmap" "models\items\imperialguardhelmet\imperial_helmet_n"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.06 .06 .06]"
+
+	"$phong" "1"
+	"$phongexponent" "95"
+	"$phongboost" "1"
+	"$lightwarptexture" "models\lightwarps\weapon_lightwarp"	
+	"$phongfresnelranges"	"[.25 1 4]"
+	"$basemapalphaphongmask" "1"
+
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2"										// Boost for ambient cube component of rim lighting
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+
+	"Proxies"
+	{
+		"weapon_invis"
+		{
+		}
+
+	}
+}

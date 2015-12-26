@@ -1,0 +1,14 @@
+﻿"Phrases"
+{
+	"Human Credits"
+	{
+		"#format" "{1:d}"
+		"en" "You got {1} for surviving the round."
+	}
+	
+	"Zombie Credits"
+	{
+		"#format" "{1:d}"
+		"en" "You got {1} for eliminating all humans."
+	}
+}
