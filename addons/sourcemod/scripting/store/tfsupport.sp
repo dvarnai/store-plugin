@@ -561,11 +561,6 @@ stock TF2_EquipWearable(iOwner, iItem)
 	SDKCall(g_hSdkEquipWearable, iOwner, iItem);
 }
 
-stock TF2_RemoveWearable(iOwner, iItem)
-{	
-	SDKCall(g_hSdkRemoveWearable, iOwner, iItem);
-}
-
 public Action:Hook_TFSetTransmit(ent, client)
 {
 	for(new i=0;i<3;++i)
@@ -674,7 +669,7 @@ public Action:TFHat_DropObject(Handle:event, const String:name[], bool:dontBroad
 	new client = GetClientOfUserId(GetEventInt(event, "userid"));
 	if(!client || !IsClientInGame(client) || !IsPlayerAlive(client))
 		return Plugin_Continue;
-	new TFObjectType:object = TFObjectType:GetEventInt(event, "object");
+	new TFObjectType:object2 = TFObjectType:GetEventInt(event, "object");
 	
 	new m_iBuilding = GetEventInt(event, "index");
 	if(!m_iBuilding || !IsValidEntity(m_iBuilding))
@@ -682,7 +677,7 @@ public Action:TFHat_DropObject(Handle:event, const String:name[], bool:dontBroad
 
 	new Handle:data = CreateDataPack();
 	WritePackCell(data, GetClientUserId(client));
-	WritePackCell(data, object);
+	WritePackCell(data, object2);
 	WritePackCell(data, EntIndexToEntRef(m_iBuilding));
 	ResetPack(data);
 
@@ -694,7 +689,7 @@ public Action:TFHat_DropObject(Handle:event, const String:name[], bool:dontBroad
 public Action:TFHat_UpgradeObject(Handle:event, const String:name[], bool:dontBroadcast)
 {
 	new client = GetClientOfUserId(GetEventInt(event, "userid"));
-	new TFObjectType:object = TFObjectType:GetEventInt(event, "object");
+	new TFObjectType:object2 = TFObjectType:GetEventInt(event, "object");
 
 	new m_iBuilding = GetEventInt(event, "index");
 	if(!m_iBuilding || !IsValidEntity(m_iBuilding))
@@ -702,7 +697,7 @@ public Action:TFHat_UpgradeObject(Handle:event, const String:name[], bool:dontBr
 
 	new Handle:data = CreateDataPack();
 	WritePackCell(data, GetClientUserId(client));
-	WritePackCell(data, object);
+	WritePackCell(data, object2);
 	WritePackCell(data, EntIndexToEntRef(m_iBuilding));
 	ResetPack(data);
 
@@ -715,7 +710,7 @@ public Action:TFHat_UpgradeObject(Handle:event, const String:name[], bool:dontBr
 public Action:TFHat_Respawn(Handle:timer, any:data)
 {
 	new client = GetClientOfUserId(ReadPackCell(data));
-	new TFObjectType:object = ReadPackCell(data);
+	new TFObjectType:object2 = ReadPackCell(data);
 	new m_iBuilding = EntRefToEntIndex(ReadPackCell(data));
 
 	CloseHandle(data);
@@ -725,9 +720,9 @@ public Action:TFHat_Respawn(Handle:timer, any:data)
 	if(!m_iBuilding || !IsValidEntity(m_iBuilding))
 		return Plugin_Stop;
 
-	if(object == TFObject_Sentry || object == TFObject_Dispenser)
+	if(object2 == TFObject_Sentry || object2 == TFObject_Dispenser)
 	{
-		TFHat_Spawn(m_iBuilding, client, object);
+		TFHat_Spawn(m_iBuilding, client, object2);
 	}
 
 	return Plugin_Stop;
@@ -738,7 +733,7 @@ public Action:TFHat_PlayerBuiltObject(Handle:event, const String:name[], bool:do
 	new client = GetClientOfUserId(GetEventInt(event, "userid"));
 	if(!client || !IsClientInGame(client) || !IsPlayerAlive(client))
 		return Plugin_Continue;
-	new TFObjectType:object = TFObjectType:GetEventInt(event, "object");
+	new TFObjectType:object2 = TFObjectType:GetEventInt(event, "object");
 	
 		
 	new m_iBuilding = GetEventInt(event, "index");
@@ -747,9 +742,9 @@ public Action:TFHat_PlayerBuiltObject(Handle:event, const String:name[], bool:do
 
 	if(!GetEntProp(m_iBuilding, Prop_Send, "m_bCarryDeploy"))
 	{		
-		if(object == TFObject_Sentry || object == TFObject_Dispenser)
+		if(object2 == TFObject_Sentry || object2 == TFObject_Dispenser)
 		{
-			TFHat_Spawn(m_iBuilding, client, object);
+			TFHat_Spawn(m_iBuilding, client, object2);
 		}
 	}
 	
