@@ -46,7 +46,7 @@ public GrenadeTrails_OnMapStart()
 	for(new i=0;i<g_iGrenadeTrails;++i)
 	{
 		g_eGrenadeTrails[i][iCacheID] = PrecacheModel2(g_eGrenadeTrails[i][szMaterial], true);
-		Downloader_AddFileToDownloadsTable(g_eGrenadeTrails[i][szModel]);
+		Downloader_AddFileToDownloadsTable(g_eGrenadeTrails[i][szMaterial]);
 	}
 }
 
