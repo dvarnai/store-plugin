@@ -63,17 +63,15 @@
  * the Handle or add categories.
  * 
  * @param topmenu		Handle to the admin menu's TopMenu.
- * @noreturn
  */
-forward OnAdminMenuCreated(Handle:topmenu);
+forward void OnAdminMenuCreated(Handle topmenu);
 
 /**
  * Called when the admin menu is ready to have items added.
  * 
  * @param topmenu		Handle to the admin menu's TopMenu.
- * @noreturn
  */
-forward OnAdminMenuReady(Handle:topmenu);
+forward void OnAdminMenuReady(Handle topmenu);
 
 /**
  * Retrieves the Handle to the admin top menu.
@@ -81,7 +79,7 @@ forward OnAdminMenuReady(Handle:topmenu);
  * @return				Handle to the admin menu's TopMenu,
  *						or INVALID_HANDLE if not created yet.
  */
-native Handle:GetAdminTopMenu();
+native TopMenu GetAdminTopMenu();
 
 /**
  * Adds targets to an admin menu.

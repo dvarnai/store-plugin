@@ -186,16 +186,16 @@ stock bool:PrintKeyHintText(client, const String:format[], any:...)
 	SetGlobalTransTarget(client);
 	VFormat(buffer, sizeof(buffer), format, 3);
 
-    if (GetUserMessageType() == UM_Protobuf)
-    {
-        PbAddString(userMessage, "hints", buffer);
-    }
-    else
-    {
-        BfWriteByte(userMessage, 1);
-        BfWriteString(userMessage, buffer);
-    }
-    
+	if(GetUserMessageType() == UM_Protobuf)
+	{
+		PbAddString(userMessage, "hints", buffer);
+	}
+	else
+	{
+		BfWriteByte(userMessage, 1);
+		BfWriteString(userMessage, buffer);
+	}
+	
 
 	EndMessage();
    
@@ -287,16 +287,14 @@ public SQLCallback_NoError(Handle:owner, Handle:hndl, const String:error[], any:
 stock GetClientBySteamID(String:steamid[])
 {
 	new String:authid[32];
-	new String:legacy[32];
 	for(new i=1;i<=MaxClients;++i)
 	{
 		if(!IsClientInGame(i))
 			continue;
 		if(!IsClientAuthorized(i))
 			continue;
-		GetClientAuthString(i, STRING(authid));
-		GetClientAuthString(i, STRING(legacy));
-		if(strcmp(legacy[8], steamid[8])==0 || strcmp(authid, steamid)==0)
+		GetClientAuthId(i, AuthId_Steam2, STRING(authid));
+		if(strcmp(authid[8], steamid[8])==0 || strcmp(authid, steamid)==0)
 			return i;
 	}
 	return 0;
@@ -1120,12 +1118,12 @@ stock PrecacheModel2(const String:model[], bool:preload=false)
 {
 	static m_unModelPrecache = INVALID_STRING_TABLE;
 	//static m_unDynamicModel = INVALID_STRING_TABLE;
-	static m_unModelPrecacheMax = 0;
+	//static m_unModelPrecacheMax = 0;
 	//static m_unDynamicModelMax = 0;
 	if(m_unModelPrecache == INVALID_STRING_TABLE)
 	{
 		m_unModelPrecache = FindStringTable("modelprecache");
-		m_unModelPrecacheMax = GetStringTableMaxStrings(m_unModelPrecache);
+		//m_unModelPrecacheMax = GetStringTableMaxStrings(m_unModelPrecache);
 	}
 	/*if(m_unDynamicModel == INVALID_STRING_TABLE)
 	{
@@ -1166,7 +1164,7 @@ stock StringTableContains(const table, const String:model[])
 stock GetLegacyAuthString(client, String:out[], maxlen, bool:validate=true)
 {
 	new String:m_szSteamID[32];
-	new bool:success = GetClientAuthString(client, STRING(m_szSteamID), validate);
+	new bool:success = GetClientAuthId(client, AuthId_Steam2, STRING(m_szSteamID), validate);
 
 	if(m_szSteamID[0]=='[')
 	{

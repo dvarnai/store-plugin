@@ -55,7 +55,7 @@ public Commands_Equip(client, id)
 
 	IntToString(client, STRING(m_szClientID));
 	IntToString(GetClientUserId(client), STRING(m_szUserID));
-	GetClientAuthString(client, m_szSteamID[1], sizeof(m_szSteamID)-1);
+	GetClientAuthId(client, AuthId_Steam2, m_szSteamID[1], sizeof(m_szSteamID)-1);
 	GetClientName(client, m_szName[1], sizeof(m_szName)-1);
 
 	m_szSteamID[strlen(m_szSteamID)] = '"';
@@ -104,7 +104,7 @@ public Action:Timer_CommandOff(Handle:timer, any:data)
 	{
 		IntToString(client, STRING(m_szClientID));
 		IntToString(GetClientUserId(client), STRING(m_szUserID));
-		GetClientAuthString(client, m_szSteamID[1], sizeof(m_szSteamID)-1);
+		GetClientAuthId(client, AuthId_Steam2, m_szSteamID[1], sizeof(m_szSteamID)-1);
 		GetClientName(client, m_szName[1], sizeof(m_szName)-1);
 	}
 

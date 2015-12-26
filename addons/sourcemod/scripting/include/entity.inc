@@ -650,18 +650,16 @@ native GetEntPropString(entity, PropType:type, const String:prop[], String:buffe
 
 /**
  * Sets a network property as a string.
- *
- * This cannot set property fields of type PropField_String_T (such as "m_target").
- * To set such fields, you should use DispatchKeyValue() from SDKTools.
  * 
  * @param entity		Edict index.
  * @param type			Property type.
  * @param prop			Property to use.
  * @param buffer		String to set.		
+ * @param element		Element # (starting from 0) if property is an array.
  * @return				Number of non-null bytes written.
  * @error				Invalid entity, offset out of reasonable bounds, or property is not a valid string.
  */
-native SetEntPropString(entity, PropType:type, const String:prop[], const String:buffer[]);
+native SetEntPropString(entity, PropType:type, const String:prop[], const String:buffer[], element=0);
 
 /**
  * Retrieves the count of values that an entity property's array can store.
@@ -682,15 +680,12 @@ native GetEntPropArraySize(entity, PropType:type, const String:prop[]);
  * @param array			Array to read into.
  * @param arraySize		Number of values to read.
  * @param dataSize		Size of each value in bytes (1, 2, or 4).
- * @noreturn
  * @error				Invalid entity or offset out of reasonable bounds.
  */
-stock GetEntDataArray(entity, offset, array[], arraySize, dataSize=4)
+stock void GetEntDataArray(int entity, int offset, int[] array, int arraySize, int dataSize=4)
 {
-	for (new i=0; i<arraySize; i++)
-	{
-		array[i] = GetEntData(entity, offset + i*dataSize, dataSize)
-	}
+	for (int i=0; i<arraySize; i++)
+		array[i] = GetEntData(entity, offset + i*dataSize, dataSize);
 }
 
 /**
