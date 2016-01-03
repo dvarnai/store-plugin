@@ -7,7 +7,7 @@
 #define PLUGIN_NAME "Store - The Resurrection"
 #define PLUGIN_AUTHOR "Zephyrus"
 #define PLUGIN_DESCRIPTION "A completely new Store system."
-#define PLUGIN_VERSION "1.0"
+#define PLUGIN_VERSION "1.1"
 #define PLUGIN_URL ""
 
 #define SERVER_LOCK_IP ""
