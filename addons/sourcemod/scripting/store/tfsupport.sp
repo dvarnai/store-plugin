@@ -52,6 +52,7 @@ new Handle:g_hRemoveTimer[MAXPLAYERS+1]={INVALID_HANDLE};
 
 
 new g_bTFHide[2048]={false};
+new bool:g_bTF2Enabled = true;
 
 #if defined STANDALONE_BUILD
 public OnPluginStart()
@@ -73,6 +74,7 @@ public TFSupport_OnPluginStart()
 	// This is not a standalone build, we don't want hats to kill the whole plugin for us	
 	if(GetExtensionFileStatus("tf2items.ext")!=1)
 	{
+		g_bTF2Enabled = false;
 		LogError("TF2Items isn't installed or failed to load. TF2 support will be disabled. Please install TF2Items. (https://forums.alliedmods.net/showthread.php?t=115100)");
 		return;
 	}
@@ -567,7 +569,7 @@ public Action:Hook_TFSetTransmit(ent, client)
 
 public TFHead_OnGameFrame()
 {
-	if(!GAME_TF2)
+	if(!GAME_TF2 || !g_bTF2Enabled)
 		return;
 	LoopAlivePlayers(client)
 	{
@@ -578,6 +580,9 @@ public TFHead_OnGameFrame()
 
 public TFWeapon_OnGameFrame()
 {
+	if(!g_bTF2Enabled)
+		return;
+
 	LoopAlivePlayers(m_iOwner)
 	{
 		if(g_iClientWeapons[m_iOwner][4]==0)
@@ -825,6 +830,10 @@ public TFHat_Spawn(ent, owner, TFObjectType:type)
 
 public TFWeaponSize_ResizeWeapon(client)
 {
+	new m_iEquippedSize = Store_GetEquippedItem(client, "tfweaponsize");
+	if(m_iEquippedSize < 0)
+		return;
+
 	for(new i=0;i<6;++i)
 	{
 		new ent = GetPlayerWeaponSlot(client, i);
