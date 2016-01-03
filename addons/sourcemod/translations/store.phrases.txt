@@ -634,4 +634,10 @@
 		"en" "spray"
 		"hu" "spray"
 	}
+
+	"glow"
+	{
+		"en" "glow"
+		"hu" "ragyogás"
+	}
 }
