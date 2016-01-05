@@ -5970,153 +5970,153 @@
 		{
 			"color" "47 79 79"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"A Deep Commitment to Purple"
 		{
 			"color" "125 64 113"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"A Distinctive Lack of Hue"
 		{
 			"color" "20 20 20"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"A Mann's Mint"
 		{
 			"color" "188 221 179"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"After Eight"
 		{
 			"color" "45 45 36"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"Aged Moustache Grey"
 		{
 			"color" "126 126 126"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"An Extraordinary Abundance of Tinge"
 		{
 			"color" "230 230 230"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"Australium Gold"
 		{
 			"color" "231 181 59"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"Color No. 216-190-216 "
 		{
 			"color" "216 190 216"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"Dark Salmon Injustice"
 		{
 			"color" "233 150 122"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"Drably Olive"
 		{
 			"color" "128 128 0"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"Indubitably Green"
 		{
 			"color" "114 158 66"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"Mann Co. Orange"
 		{
 			"color" "207 115 54"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"Muskelmannbraun"
 		{
 			"color" "165 117 69"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"Noble Hatter's Violet"
 		{
 			"color" "81 56 74"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"Peculiarly Drab Tincture"
 		{
 			"color" "197 175 145"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 		"Pink as Hell"
 		{
 			"color" "255 105 180"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"Radigan Conagher Brown"
 		{
 			"color" "105 77 58"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"The Bitter Taste of Defeat and Lime"
 		{
 			"color" "50 205 50"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"The Color of a Gentlemann's Business Pants"
 		{
 			"color" "240 230 140"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"Ye Olde Rustic Colour"
 		{
 			"color" "124 108 87"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 
 		"Zepheniah's Greed"
 		{
 			"color" "66 79 59"
 			"price" "60"
-			"type" "tyhatdye"
+			"type" "tfhatdye"
 		}
 	}
 }
