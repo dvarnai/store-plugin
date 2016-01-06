@@ -27,6 +27,17 @@ public OnPluginStart()
 public Pets_OnPluginStart()
 #endif
 {
+
+#if defined STANDALONE_BUILD
+	new String:m_szGameDir[32];
+	GetGameFolderName(m_szGameDir, sizeof(m_szGameDir));
+	
+	if(strcmp(m_szGameDir, "tf")==0)
+		GAME_TF2 = true;
+#endif
+	if(GAME_TF2)
+		return;	
+
 	Store_RegisterHandler("pet", "model", Pets_OnMapStart, Pets_Reset, Pets_Config, Pets_Equip, Pets_Remove, true);
 
 	HookEvent("player_spawn", Pets_PlayerSpawn);
