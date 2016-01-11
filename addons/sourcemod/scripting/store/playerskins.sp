@@ -31,6 +31,7 @@ new g_cvarSkinForceChange = -1;
 new g_cvarSkinForceChangeCT = -1;
 new g_cvarSkinForceChangeT = -1;
 new g_cvarSkinDelay = -1;
+new g_cvarSkinEnable = -1;
 
 new bool:g_bTForcedSkin = false;
 new bool:g_bCTForcedSkin = false;
@@ -59,6 +60,7 @@ public PlayerSkins_OnPluginStart()
 	g_cvarSkinForceChangeCT = RegisterConVar("sm_store_playerskin_default_ct", "", "Path of the default CT skin.", TYPE_STRING);
 	g_cvarSkinForceChangeT = RegisterConVar("sm_store_playerskin_default_t", "", "Path of the default T skin.", TYPE_STRING);
 	g_cvarSkinDelay = RegisterConVar("sm_store_playerskin_delay", "-1", "Delay after spawn before applying the skin. -1 means no delay", TYPE_FLOAT);
+	g_cvarSkinEnable = RegisterConVar("sm_store_playerskin_enable", "1", "Enable or disable skins feature", TYPE_INT);
 	
 	HookEvent("player_spawn", PlayerSkins_PlayerSpawn);
 	HookEvent("player_death", PlayerSkins_PlayerDeath);
@@ -153,7 +155,7 @@ public PlayerSkins_Config(&Handle:kv, itemid)
 public PlayerSkins_Equip(client, id)
 {
 	new m_iData = Store_GetDataIndex(id);
-	if(g_eCvars[g_cvarSkinChangeInstant][aCache] && IsPlayerAlive(client) && GetClientTeam(client)==g_ePlayerSkins[m_iData][iTeam])
+	if(g_eCvars[g_cvarSkinChangeInstant][aCache] && IsPlayerAlive(client) && (GetClientTeam(client)==g_ePlayerSkins[m_iData][iTeam] || g_ePlayerSkins[m_iData][iTeam] == 4))
 	{
 		
 		Store_SetClientModel(client, g_ePlayerSkins[m_iData][szModel], g_ePlayerSkins[m_iData][iSkin]);
@@ -203,10 +205,6 @@ public Action:PlayerSkins_PlayerSpawnPost(Handle:timer, any:userid)
 	new client = GetClientOfUserId(userid);
 	if(!client)
 		return Plugin_Stop;
-
-	if(g_bZombieMode)
-		if(ZR_IsClientZombie(client))
-			return Plugin_Continue;
 		
 	new m_iEquipped = Store_GetEquippedItem(client, "playerskin", 2);
 	if(m_iEquipped < 0)
@@ -233,6 +231,12 @@ public Action:PlayerSkins_PlayerSpawnPost(Handle:timer, any:userid)
 
 Store_SetClientModel(client, const String:model[], const skin=0, const String:arms[]="")
 {
+	if(g_eCvars[g_cvarSkinEnable][aCache] == 0) return;
+	
+	if(g_bZombieMode)
+		if(ZR_IsClientZombie(client))
+			return;
+	
 	if(GAME_TF2)
 	{
 		SetVariantString(model);
