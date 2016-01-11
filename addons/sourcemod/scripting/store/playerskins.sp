@@ -203,10 +203,6 @@ public Action:PlayerSkins_PlayerSpawnPost(Handle:timer, any:userid)
 	new client = GetClientOfUserId(userid);
 	if(!client)
 		return Plugin_Stop;
-
-	if(g_bZombieMode)
-		if(ZR_IsClientZombie(client))
-			return Plugin_Continue;
 		
 	new m_iEquipped = Store_GetEquippedItem(client, "playerskin", 2);
 	if(m_iEquipped < 0)
@@ -233,6 +229,10 @@ public Action:PlayerSkins_PlayerSpawnPost(Handle:timer, any:userid)
 
 Store_SetClientModel(client, const String:model[], const skin=0, const String:arms[]="")
 {
+	if(g_bZombieMode)
+		if(ZR_IsClientZombie(client))
+			return Plugin_Continue;
+
 	if(GAME_TF2)
 	{
 		SetVariantString(model);
