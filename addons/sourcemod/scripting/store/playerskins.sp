@@ -231,7 +231,7 @@ Store_SetClientModel(client, const String:model[], const skin=0, const String:ar
 {
 	if(g_bZombieMode)
 		if(ZR_IsClientZombie(client))
-			return Plugin_Continue;
+			return;
 
 	if(GAME_TF2)
 	{

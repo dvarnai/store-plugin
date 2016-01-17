@@ -1055,6 +1055,7 @@ public OnClientConnected(client)
 	ZRClass_OnClientConnected(client);
 	Pets_OnClientConnected(client);
 	Sprays_OnClientConnected(client);
+	Glow_OnClientConnected(client);
 #endif
 }
 
@@ -1084,6 +1085,7 @@ public OnClientDisconnect(client)
 #if !defined STANDALONE_BUILD
 	Betting_OnClientDisconnect(client);
 	Pets_OnClientDisconnect(client);
+	Glow_OnClientDisconnect(client);
 #endif
 
 	Store_SaveClientData(client);
