@@ -87,10 +87,20 @@ public Action:Glow_PlayerSpawn(Handle:event, const String:name[], bool:dontBroad
 	if(!client || !IsClientInGame(client) || !IsPlayerAlive(client) || !(2<=GetClientTeam(client)<=3))
 		return Plugin_Continue;
 
-	ResetGlow(client);
-	CreateGlow(client);
+	CreateTimer(0.1, Glow_PlayerSpawn_Post, GetClientUserId(client));
 
 	return Plugin_Continue;
+}
+
+public Action:Glow_PlayerSpawn_Post(Handle:timer, any:userid)
+{
+	new client = GetClientOfUserId(userid);
+	if(!client || !IsClientInGame(client) || !IsPlayerAlive(client) || !(2<=GetClientTeam(client)<=3))
+		return Plugin_Stop;
+
+	ResetGlow(client);
+	CreateGlow(client);
+	return Plugin_Stop;
 }
 
 public Action:Glow_PlayerDeath(Handle:event, const String:name[], bool:dontBroadcast)
