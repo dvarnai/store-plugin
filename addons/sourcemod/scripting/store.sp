@@ -168,7 +168,6 @@ new SilentChatTrigger = 0;
 #include "store/invisibility.sp"
 #include "store/commands.sp"
 #include "store/doors.sp"
-#include "store/knife.sp"
 #include "store/zrclass.sp"
 #include "store/jihad.sp"
 #include "store/godmode.sp"
@@ -177,7 +176,6 @@ new SilentChatTrigger = 0;
 #include "store/respawn.sp"
 #include "store/pets.sp"
 #include "store/sprays.sp"
-#include "store/weaponskins.sp"
 #include "store/admin.sp"
 #include "store/glow.sp"
 #endif
@@ -320,14 +318,12 @@ public OnPluginStart()
 	Doors_OnPluginStart();
 	ZRClass_OnPluginStart();
 	Jihad_OnPluginStart();
-	Knives_OnPluginStart();
 	Godmode_OnPluginStart();
 	Sounds_OnPluginStart();
 	Attributes_OnPluginStart();
 	Respawn_OnPluginStart();
 	Pets_OnPluginStart();
 	Sprays_OnPluginStart();
-	WeaponSkins_OnPluginStart();
 	AdminGroup_OnPluginStart();
 	Glow_OnPluginStart();
 #endif
@@ -1072,8 +1068,6 @@ public OnClientPutInServer(client)
 	if(IsFakeClient(client))
 		return;
 	WeaponColors_OnClientPutInServer(client);
-	Knives_OnClientPutInServer(client);
-	WeaponSkins_OnClientPutInServer(client);
 }
 #endif
 
