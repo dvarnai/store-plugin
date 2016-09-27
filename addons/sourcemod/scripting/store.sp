@@ -32,7 +32,7 @@
 #include <tf2_stocks>
 #include <tf2items>
 #include <gifts>
-#include <scp>
+#include <chat-processor>
 #include <thirdperson>
 #include <saxtonhale>
 #endif
@@ -156,7 +156,7 @@ new SilentChatTrigger = 0;
 #include "store/betting.sp"
 #include "store/watergun.sp"
 #include "store/gifts.sp"
-#include "store/scpsupport.sp"
+#include "store/cpsupport.sp"
 #include "store/weapons.sp"
 #include "store/help.sp"
 #include "store/jetpack.sp"
@@ -304,7 +304,7 @@ public OnPluginStart()
 	Watergun_OnPluginStart();
 	Betting_OnPluginStart();
 	Gifts_OnPluginStart();
-	SCPSupport_OnPluginStart();
+	CPSupport_OnPluginStart();
 	Weapons_OnPluginStart();
 	Help_OnPluginStart();
 	Jetpack_OnPluginStart();

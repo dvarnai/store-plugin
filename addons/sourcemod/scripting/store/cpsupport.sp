@@ -4,7 +4,7 @@
 
 #include <store>
 #include <zephstocks>
-#include <scp>
+#include <chat-processor>
 #endif
 
 new String:g_szNameTags[STORE_MAX_ITEMS][MAXLENGTH_NAME];
@@ -18,25 +18,25 @@ new g_iMessageColors = 0;
 #if defined STANDALONE_BUILD
 public OnPluginStart()
 #else
-public SCPSupport_OnPluginStart()
+public CPSupport_OnPluginStart()
 #endif
 {	
-	if(FindPluginByFile("simple-chatprocessor.smx")==INVALID_HANDLE)
+	if(FindPluginByFile("chat-processor.smx")==INVALID_HANDLE)
 	{
-		LogError("Simple Chat Processor isn't installed or failed to load. SCP support will be disabled. (http://forums.alliedmods.net/showthread.php?t=198501)");
+		LogError("Chat-Processor isn't installed or failed to load. Chat-Processor support will be disabled. (https://forums.alliedmods.net/showthread.php?t=286913)");
 		return;
 	}
 
-	Store_RegisterHandler("nametag", "tag", SCPSupport_OnMappStart, SCPSupport_Reset, NameTags_Config, SCPSupport_Equip, SCPSupport_Remove, true);
-	Store_RegisterHandler("namecolor", "color", SCPSupport_OnMappStart, SCPSupport_Reset, NameColors_Config, SCPSupport_Equip, SCPSupport_Remove, true);
-	Store_RegisterHandler("msgcolor", "color", SCPSupport_OnMappStart, SCPSupport_Reset, MsgColors_Config, SCPSupport_Equip, SCPSupport_Remove, true);
+	Store_RegisterHandler("nametag", "tag", CPSupport_OnMappStart, CPSupport_Reset, NameTags_Config, CPSupport_Equip, CPSupport_Remove, true);
+	Store_RegisterHandler("namecolor", "color", CPSupport_OnMappStart, CPSupport_Reset, NameColors_Config, CPSupport_Equip, CPSupport_Remove, true);
+	Store_RegisterHandler("msgcolor", "color", CPSupport_OnMappStart, CPSupport_Reset, MsgColors_Config, CPSupport_Equip, CPSupport_Remove, true);
 }
 
-public SCPSupport_OnMappStart()
+public CPSupport_OnMappStart()
 {
 }
 
-public SCPSupport_Reset()
+public CPSupport_Reset()
 {
 	g_iNameTags = 0;
 	g_iNameColors = 0;
@@ -70,16 +70,16 @@ public MsgColors_Config(&Handle:kv, itemid)
 	return true;
 }
 
-public SCPSupport_Equip(client, id)
+public CPSupport_Equip(client, id)
 {
 	return -1;
 }
 
-public SCPSupport_Remove(client, id)
+public CPSupport_Remove(client, id)
 {
 }
 
-public Action:OnChatMessage(&client, Handle:recipients, String:name[], String:message[])
+public Action:OnChatMessage(int& client, ArrayList recipients, eChatFlags& flag, char[] name, char[] message, bool& bProcessColors, bool& bRemoveColors)
 {
 	new m_iEquippedNameTag = Store_GetEquippedItem(client, "nametag");
 	new m_iEquippedNameColor = Store_GetEquippedItem(client, "namecolor");
