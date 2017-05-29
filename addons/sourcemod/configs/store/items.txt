@@ -6119,4 +6119,21 @@
 			"type" "tfhatdye"
 		}
 	}
+	
+	"Dispenser Hats"
+	{
+		"Team Captain"
+		{
+			"model" "models/player/items/soldier/soldier_officer.mdl"
+			"price" "900"
+			"type" "tfhat"
+		}
+		
+		"Western Wear"
+		{
+			"model" "models/player/items/engineer/engineer_top_hat.mdl"
+			"price" "200"
+			"type" "tfhat"
+		}
+	}
 }
