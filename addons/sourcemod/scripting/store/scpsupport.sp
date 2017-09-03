@@ -4,7 +4,11 @@
 
 #include <store>
 #include <zephstocks>
-#include <scp>
+
+#tryinclude <scp>
+#if !defined _scp_included
+#include <cp-scp-wrapper>
+#endif
 #endif
 
 new String:g_szNameTags[STORE_MAX_ITEMS][MAXLENGTH_NAME];
@@ -21,9 +25,9 @@ public OnPluginStart()
 public SCPSupport_OnPluginStart()
 #endif
 {	
-	if(FindPluginByFile("simple-chatprocessor.smx")==INVALID_HANDLE)
+	if(LibraryExists("scp") || LibraryExits("cp-scp-wrapper))
 	{
-		LogError("Simple Chat Processor isn't installed or failed to load. SCP support will be disabled. (http://forums.alliedmods.net/showthread.php?t=198501)");
+		LogError("Simple Chat Processor/CP Wrapper isn't installed or failed to load. SCP support will be disabled. (http://forums.alliedmods.net/showthread.php?t=198501)");
 		return;
 	}
 
