@@ -32,9 +32,14 @@
 #include <tf2_stocks>
 #include <tf2items>
 #include <gifts>
-#include <scp>
 #include <thirdperson>
 #include <saxtonhale>
+
+#tryinclude <scp>
+#if !defined _scp_included
+#include <cp-scp-wrapper>
+#endif
+
 #endif
 
 //////////////////////////////
