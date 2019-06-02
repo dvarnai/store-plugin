@@ -83,7 +83,7 @@ public Action:Command_Pot(client, args)
 	
     if(g_iBettingStart+g_eCvars[g_cvarBettingPeriod][aCache] > GetTime())
     {
-        PrintToChat(client, "\x04[Store] \x01Cannot use this command until betting time is done");
+        PrintToChat(client, "\x04%s \x01Cannot use this command until betting time is done", g_cvarChatTag);
         return Plugin_Handled;
     }
 
@@ -91,7 +91,7 @@ public Action:Command_Pot(client, args)
     for(new i=1;i<=MaxClients;++i)
         m_pot+=g_iPlayerPot[i];
     
-    PrintToChat(client, "\x04[Store] \x01Pot: %d", m_pot);
+    PrintToChat(client, "\x04%s \x01Pot: %d", g_cvarChatTag, m_pot);
     return Plugin_Handled;
 }
 
