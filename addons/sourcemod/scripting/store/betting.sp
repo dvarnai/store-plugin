@@ -58,6 +58,7 @@ public Betting_OnPluginStart()
 	}
 
 	RegConsoleCmd("sm_bet", Command_Bet);
+	RegConsoleCmd("sm_pot", Command_Pot);
 
 	// Load the translations file
 	LoadTranslations("store.phrases");
@@ -76,6 +77,24 @@ public Betting_OnClientDisconnect(client)
 		g_iPlayerTeam[client]=0;
 	}
 }
+
+public Action:Command_Pot(client, args)
+{
+	
+    if(g_iBettingStart+g_eCvars[g_cvarBettingPeriod][aCache] > GetTime())
+    {
+        PrintToChat(client, "\x04[Store] \x01Cannot use this command until betting time is done");
+        return Plugin_Handled;
+    }
+
+    int m_pot = 0;
+    for(new i=1;i<=MaxClients;++i)
+        m_pot+=g_iPlayerPot[i];
+    
+    PrintToChat(client, "\x04[Store] \x01Pot: %d", m_pot);
+    return Plugin_Handled;
+}
+
 
 public Action:Command_Bet(client, args)
 {
