@@ -1276,12 +1276,6 @@ public Action:Command_Gift(client, params)
 
 public Action:Command_GiveCredits(client, params)
 {
-	if(client && !GetClientPrivilege(client, g_eCvars[g_cvarAdminFlag][aCache]))
-	{
-		Chat(client, "%t", "You dont have permission");
-		return Plugin_Handled;
-	}
-	
 	decl String:m_szTmp[64];
 	GetCmdArg(2, STRING(m_szTmp));
 	
@@ -1370,12 +1364,6 @@ public Action:Command_GiveCredits(client, params)
 
 public Action:Command_ResetPlayer(client, params)
 {
-	if(client && !GetClientPrivilege(client, g_eCvars[g_cvarAdminFlag][aCache]))
-	{
-		Chat(client, "%t", "You dont have permission");
-		return Plugin_Handled;
-	}
-
 	decl String:m_szTmp[64];
 	decl bool:m_bTmp;
 	decl m_iTargets[1];
