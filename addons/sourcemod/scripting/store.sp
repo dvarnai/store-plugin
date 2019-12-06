@@ -275,8 +275,8 @@ public OnPluginStart()
 	RegConsoleCmd("sm_inv", Command_Inventory);
 	RegConsoleCmd("sm_inventory", Command_Inventory);
 	RegConsoleCmd("sm_gift", Command_Gift);
-	RegConsoleCmd("sm_givecredits", Command_GiveCredits);
-	RegConsoleCmd("sm_resetplayer", Command_ResetPlayer);
+	RegAdminCmd("sm_givecredits", Command_GiveCredits, ADMFLAG_ROOT, "sm_givecredits <<#userid|name> <amount>);
+	RegAdminCmd("sm_resetplayer", Command_ResetPlayer, ADMFLAG_ROOT, "sm_givecredits <<#userid|name> <amount>);
 	RegConsoleCmd("sm_credits", Command_Credits);
 	RegServerCmd("sm_store_custom_credits", Command_CustomCredits);
 	
