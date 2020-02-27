@@ -1,0 +1,543 @@
+﻿"Phrases"
+{
+	"You dont have permission"
+	{
+		"ru" "У вас нет разрешения к этому."
+	}
+	
+	"Inventory hasnt been fetched"
+	{
+		"ru" "Пожалуйста, подождите. Ваш инвентарь еще не был получен."
+	}
+	
+	"Item Bought"
+	{
+		"#format" "{1:s}"
+		"ru" "{1}"
+	}
+	
+	"Item Available"
+	{
+		"#format" "{1:s},{2:d}"
+		"ru" "{1} ({2})"
+	}
+
+	"Item Plan Available"
+	{
+		"#format" "{1:s}"
+		"ru" "{1} (Выберите план)"
+	}
+	
+	"Item Equipped"
+	{
+		"#format" "{1:s}"
+		"ru" "{1} [НАДЕТО]"
+	}
+	
+	"Item Equip"
+	{
+		"ru" "Надеть этот предмет"
+	}
+	
+	"Item Unequip"
+	{
+		"ru" "Снять"
+	}
+	
+	"Item Use"
+	{
+		"ru" "Исп. этот предмет"
+	}
+	
+	"Item Sell"
+	{
+		"#format" "{1:d}"
+		"ru" "Продать за {1}"
+	}
+	
+	"Item Gift"
+	{
+		"ru" "Подарить этот предмет"
+	}
+	
+	"Title Store"
+	{
+		"ru" "Меню магазина"
+	}
+	
+	"Title Credits"
+	{
+		"#format" "{1:d}"
+		"ru" "Кредитов: {1}"
+	}
+	
+	"Title Expiration"
+	{
+		"#format" "{1:d},{2:d}"
+		"ru" "Истекает через {1}д {2}ч"
+	}
+
+	"Title Gift"
+	{
+		"ru" "Выберите игрока для отправки подарка"
+	}
+	
+	"Gift Player Left"
+	{
+		"ru" "Выбранный игрок уже покинул игру."
+	}
+	
+	"Gift No Players"
+	{
+		"ru" "Никому нельзя подарить этот предмет."
+	}
+	
+	"Chat Bought Item"
+	{
+		"#format" "{1:s},{2:t}"
+		"ru" "Вы купили {HIGHLIGHT}{1} {2}{NORMAL}."
+	}
+	
+	"Chat Sold Item"
+	{
+		"#format" "{1:s},{2:t}"
+		"ru" "Вы продали {HIGHLIGHT}{1} {2}{NORMAL}."
+	}
+	
+	"Chat Gift Item Sent"
+	{
+		"#format" "{1:s},{2:s},{3:t}"
+		"ru" "Вы отправили {HIGHLIGHT}{1}{NORMAL} a {HIGHLIGHT}{2} {3}{NORMAL} в качестве подарка."
+	}
+	
+	"Chat Gift Item Received"
+	{
+		"#format" "{1:s},{2:s},{3:t}"
+		"ru" "{HIGHLIGHT}{1}{NORMAL} отправил вам {HIGHLIGHT}{2} {3}{NORMAL} в качестве подарка."
+	}
+	
+	"Credit Gift Disabled"
+	{
+		"ru" "Обмен кредитов отключен на этом сервере."
+	}
+	
+	"Credit Invalid Amount"
+	{
+		"ru" "Введено неверное количество кредитов."
+	}
+	
+	"Credit Not Enough"
+	{
+		"ru" "У вас недостаточно кредитов, чтобы купить это."
+	}
+
+	"Credit Too Many Matches"
+	{
+		"ru" "Найдено более одного клиента."
+	}
+	
+	"Credit No Match"
+	{
+		"ru" "Ни один игрок не был найден."
+	}
+	
+	"Credit Gift Sent"
+	{
+		"#format" "{1:d},{2:s}"
+		"ru" "Вы отправили {HIGHLIGHT}{1}{NORMAL} кредитов игроку {HIGHLIGHT}{2}{NORMAL}.
+	}
+	
+	"Credit Gift Received"
+	{
+		"#format" "{1:d},{2:s}"
+		"ru" "{HIGHLIGHT}{2}{NORMAL} отправил вам {HIGHLIGHT}{1}{NORMAL} кредитов."
+	}
+	
+	"Package Sell"
+	{
+		"#format" "{1:d}"
+		"ru" "Продать этот набор за {1}"
+	}
+	
+	"Package Gift"
+	{
+		"ru" "Подарить этот набор"
+	}
+	
+	"PlayerSkins Settings Changed"
+	{
+		"ru" "Ваши новые настройки будут применены при следующем возрождении."
+	}
+	
+	"Confirm_Yes"
+	{
+		"ru" "Да"
+	}
+	
+	"Confirm_No"
+	{
+		"ru" "Нет"
+	}
+	
+	"Confirm_Buy"
+	{
+		"#format" "{1:s},{2:t}"
+		"ru" "Вы уверены, что хотите купить {1} {2}?"
+	}
+	
+	"Confirm_Sell"
+	{
+		"#format" "{1:s},{2:t},{3:d}"
+		"ru" "Вы уверены, что хотите продать {1} {2} за {3}?"
+	}
+	
+	"Confirm_Gift"
+	{
+		"#format" "{1:s},{2:t},{3:s}"
+		"ru" "Вы уверены, что хотите подарить {1} {2} игроку {3}?"
+	}
+
+	"Confirm_Gift_Drop"
+	{
+		"#format" "{1:s},{2:t}"
+		"ru" "Вы уверены, что хотите выкинуть {1} {2} в качестве подарка?"
+	}
+	
+	"Override Enabled"
+	{
+		"ru" "Ваш текущий скин не поддерживает шляпы. Ваш скин будет изменен."
+	}
+	
+	"Override Disabled"
+	{
+		"ru" "Ваш скин не поддерживает шляпы. Ваша надетая шапка будет отключена."
+	}
+
+	"Credits Given"
+	{
+		"#format" "{1:s}{2:d}"
+		"ru" "Для игрока {1} был выдано {2} кредитов."
+	}
+
+	"Betting Won"
+	{
+		"#format" "{1:d}"
+		"ru" "Ваша ставка была успешной. Вы выиграли {1} кредитов."
+	}
+
+	"Betting Lost"
+	{
+		"#format" "{1:d}"
+		"ru" "Вы потеряли {1} кредитов на ставке."
+	}
+
+	"Betting Invalid Team"
+	{
+		"ru" "Указан неверный идентификатор команды."
+	}
+
+	"Betting Placed"
+	{
+		"#format" "{1:d}"
+		"ru" "Вы успешно сделали ставку на {1} кредитов."
+	}
+
+	"Betting Already Placed"
+	{
+		"ru" "Вы уже сделали ставку на раунд."
+	}
+
+	"Betting Period Over"
+	{
+		"ru" "Период ставок для этого раунда истек."
+	}
+	
+	"Player Resetted"
+	{
+		"#format" "{1:s}"
+		"ru" "{1} был сброшен."
+	}
+
+	"Player Credits"
+	{
+		"#format" "{1:s},{2:d}"
+		"ru" "{HIGHLIGHT}{1}{NORMAL} имеет {HIGHLIGHT}{2}{NORMAL} кредитов."
+	}
+
+	"Credits Earned For Killing"
+	{
+		"#format" "{1:d},{2:s}"
+		"ru" "Вы получили {HIGHLIGHT}{1}{NORMAL} кредитов за убийство {HIGHLIGHT}{2}{NORMAL}."
+	}
+
+	"Credits Earned For Playing"
+	{
+		"#format" "{1:d}"
+		"ru" "Вы получили {HIGHLIGHT}{1}{NORMAL} кредиты за игру на сервере."
+	}
+
+	"Drop Gift"
+	{
+		"ru" "Выбросить как подарок"
+	}
+
+	"Gift Item Picked"
+	{
+		"#format" "{1:s},{2:t}"
+		"ru" "Вы подобрали {HIGHLIGHT}{1} {2}{NORMAL}."
+	}
+
+	"Gift Credit Picked"
+	{
+		"#format" "{1:d}"
+		"ru" "Вы подобрали {HIGHLIGHT}{1} кредитов{NORMAL}."
+	}
+
+	"Credit Gift Dropped"
+	{
+		"#format" "{1:d}"
+		"ru" "Вы выбросили {HIGHLIGHT}{1} кредитов{NORMAL} в качестве подарка."
+	}
+
+	"Must be Alive"
+	{
+		"ru" "Вы должны быть живы, чтобы использовать это."
+	}
+
+	"TF Wrong Class"
+	{
+		"ru" "Этот предмет предназначался для использования с другим классом игрока."
+	}
+
+	"Help_Back"
+	{
+		"ru" "Назад"
+	}
+
+	"Help_Exit"
+	{
+		"ru" "Выход"
+	}
+
+	"Jetpack Fuel"
+	{
+		"#format" "{1:.1f}"
+		"ru" "[Jetpack] Топливо: {1}"
+	}
+
+	"Health Round Limit"
+	{
+		"ru" "Вы достигли максимального количества аптечек, которые вы можете купить в этом раунде."
+	}
+
+	"Respawn Round Limit"
+	{
+		"ru" "Вы достигли максимального количества возрождений, которое вы можете купить в этом раунде."
+	}
+
+	"Jihad Wrong Team"
+	{
+		"ru" "Вы не можете использовать бомбу в этой команде."
+	}
+
+	"Jihad Failed"
+	{
+		"ru" "Ваша бомба не взорвалась."
+	}
+
+	"Godmode Round Limit"
+	{
+		"ru" "Вы достигли максимального количества режимов бога, которые вы можете купить в этом раунде."
+	}
+
+	"Godmode Wrong Team"
+	{
+		"ru" "Вы не можете использовать режим бога в этой команде."
+	}
+
+	// Item type names for chat messages
+	"package"
+	{
+		"ru" "набор"
+	}
+	
+	"hat"
+	{
+		"ru" "шапка"
+	}
+	
+	"tracer"
+	{
+		"ru" "след"
+	}
+	
+	"playerskin"
+	{
+		"ru" "скин игрока"
+	}
+
+	"zrclass"
+	{
+		"ru" "класс игрока"
+	}
+	
+	"trail"
+	{
+		"ru" "хвост"
+	}
+	
+	"grenadeskin"
+	{
+		"ru" "скин гранаты"
+	}
+	
+	"grenadetrail"
+	{
+		"ru" "хвост гранаты"
+	}
+
+	"weaponcolor"
+	{
+		"ru" "цвет оружия"
+	}
+
+	"tfunusual"
+	{
+		"ru" "эффект шапки"
+	}
+	
+	"tfhatdye"
+	{
+		"ru" "окраска шапки"
+	}
+
+	"tfweapon"
+	{
+		"ru" "нестандартное оружие"
+	}
+
+	"tfhead"
+	{
+		"ru" "размер головы"
+	}
+
+	"tfhat"
+	{
+		"ru" "строительная шапка"
+	}
+
+	"tfweaponsize"
+	{
+		"ru" "размер оружия"
+	}
+
+	"paintball"
+	{
+		"ru" "пули"
+	}
+	
+	"watergun"
+	{
+		"ru" "эффект"
+	}
+
+	"nametag"
+	{
+		"ru" "именной ярлык"
+	}
+
+	"namecolor"
+	{
+		"ru" "цвет имени"
+	}
+
+	"msgcolor"
+	{
+		"ru" "цвет сообщения"
+	}
+
+	"jetpack"
+	{
+		"ru" "ракета"
+	}
+
+	"bunnyhop"
+	{
+		"ru" "умение"
+	}
+
+	"lasersight"
+	{
+		"ru" "лазерный прицел"
+	}
+
+	"health"
+	{
+		"ru" "набор"
+	}
+
+	"invisibility"
+	{
+		"ru" "способность"
+	}
+
+	"speed"
+	{
+		"ru" "способность"
+	}
+
+	"gravity"
+	{
+		"ru" "способность"
+	}
+
+	"weapon"
+	{
+		"ru" "оружие"
+	}
+
+	"sound"
+	{
+		"ru" "звук"
+	}
+	
+	"command"
+	{
+		"ru" ""
+	}
+
+	"jihad"
+	{
+		"ru" "бомба"
+	}
+
+	"godmode"
+	{
+		"ru" "режим бога"
+	}
+
+	"knife"
+	{
+		"ru" "нож"
+	}
+
+	"pet"
+	{
+		"ru" "питомец"
+	}
+
+	"weaponskin"
+	{
+		"ru" "скин оружия"
+	}
+
+	"spray"
+	{
+		"ru" "спрей"
+	}
+
+	"glow"
+	{
+		"ru" "светиться"
+	}
+}
