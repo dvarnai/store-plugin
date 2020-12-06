@@ -1,0 +1,14 @@
+﻿"Phrases"
+{
+	"Human Credits"
+	{
+		"#format" "{1:d}"
+		"chi" "你的队伍在该局存活了下来,并获得了 {1} 点奖励积分."
+	}
+	
+	"Zombie Credits"
+	{
+		"#format" "{1:d}"
+		"chi" "你的队伍消灭了所有人类并获得了 {1} 积分奖励."
+	}
+}

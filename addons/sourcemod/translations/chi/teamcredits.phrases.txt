@@ -1,0 +1,14 @@
+﻿"Phrases"
+{
+	"CT Credits"
+	{
+		"#format" "{1:d}"
+		"en" "You got {1} for winning the round as a CT."
+	}
+	
+	"T Credits"
+	{
+		"#format" "{1:d}"
+		"en" "You got {1} for winning the round as a T."
+	}
+}
