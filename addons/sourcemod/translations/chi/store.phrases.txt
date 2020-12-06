@@ -1,0 +1,513 @@
+﻿"Phrases"
+{
+	"You dont have permission"
+	{
+		"chi" "你没有权限来运行该指令."
+	}
+	
+	"Inventory hasnt been fetched"
+	{
+		"chi" "请稍等. 你的库存还未读取完毕."
+	}
+	
+	"Item Bought"
+	{
+		"chi" "{1}"
+	}
+	
+	"Item Available"
+	{
+		"chi" "{1} ({2})"
+	}
+
+	"Item Plan Available"
+	{
+		"chi" "{1} (选择你要购买的时限)"
+	}
+	
+	"Item Equipped"
+	{
+		"chi" "{1} [已装备]"
+	}
+	
+	"Item Equip"
+	{
+		"chi" "装备该物品"
+	}
+	
+	"Item Unequip"
+	{
+		"chi" "卸下该物品"
+	}
+	
+	"Item Use"
+	{
+		"chi" "使用该物品"
+	}
+	
+	"Item Sell"
+	{
+		"chi" "卖出该物品后你将得到 {1} 积分"
+	}
+	
+	"Item Gift"
+	{
+		"chi" "赠送该物品"
+	}
+	
+	"Title Store"
+	{
+		"chi" "商店菜单"
+	}
+	
+	"Title Credits"
+	{
+		"chi" "积分: {1}"
+	}
+	
+	"Title Expiration"
+	{
+		"chi" "将在 {1}天 {2}小时后过期"
+	}
+
+	"Title Gift"
+	{
+		"chi" "选择一名玩家以赠送该物品"
+	}
+	
+	"Gift Player Left"
+	{
+		"chi" "你选择的玩家已退出服务器."
+	}
+	
+	"Gift No Players"
+	{
+		"chi" "现在没有玩家可以赠送."
+	}
+	
+	"Chat Bought Item"
+	{
+		"chi" "你购买了 {HIGHLIGHT}{1} {2}{NORMAL}."
+	}
+	
+	"Chat Sold Item"
+	{
+		"chi" "你卖出了 {HIGHLIGHT}{1} {2}{NORMAL}."
+	}
+	
+	"Chat Gift Item Sent"
+	{
+		"chi" "你把 {HIGHLIGHT}{2} {3}{NORMAL} 作为礼物送给了 {HIGHLIGHT}{1}{NORMAL} ."
+	}
+	
+	"Chat Gift Item Received"
+	{
+		"chi" "{HIGHLIGHT}{1}{NORMAL} 把 {HIGHLIGHT}{2} {3}{NORMAL} 作为礼物送给了你."
+	}
+	
+	"Credit Gift Disabled"
+	{
+		"chi" "该服务器禁止赠送积分."
+	}
+	
+	"Credit Invalid Amount"
+	{
+		"chi" "你输入了一个无效数值."
+	}
+	
+	"Credit Not Enough"
+	{
+		"chi" "你没有足够的积分来购买该模型."
+	}
+
+	"Credit Too Many Matches"
+	{
+		"chi" "找到不止一个玩家符合该名称."
+	}
+	
+	"Credit No Match"
+	{
+		"chi" "找不到玩家."
+	}
+	
+	"Credit Gift Sent"
+	{
+		"chi" "你赠送了 {HIGHLIGHT}{1}{NORMAL} 积分给 {HIGHLIGHT}{2}{NORMAL}.
+	}
+	
+	"Credit Gift Received"
+	{
+		"chi" "{HIGHLIGHT}{2}{NORMAL} 赠送了 {HIGHLIGHT}{1}{NORMAL} 积分给你."
+	}
+	
+	"Package Sell"
+	{
+		"chi" "卖出该包裹后你将获得 {1} 积分"
+	}
+	
+	"Package Gift"
+	{
+		"chi" "赠送该包裹"
+	}
+	
+	"PlayerSkins Settings Changed"
+	{
+		"chi" "新的设定将会在下一次复活时生效."
+	}
+	
+	"Confirm_Yes"
+	{
+		"chi" "好的"
+	}
+	
+	"Confirm_No"
+	{
+		"chi" "不好"
+	}
+	
+	"Confirm_Buy"
+	{
+		"chi" "你确定你想要购买 {1} {2}?"
+	}
+	
+	"Confirm_Sell"
+	{
+		"chi" "你确定你想要售出 {1} {2} ?获得积分: {3}?"
+	}
+	
+	"Confirm_Gift"
+	{
+		"chi" "你确定你想要赠送 {1} {2} 给 {3}?"
+	}
+
+	"Confirm_Gift_Drop"
+	{
+		"chi" "你确定你想要把 {1} {2} 作为礼物扔出?"
+	}
+	
+	"Override Enabled"
+	{
+		"chi" "你当前的皮肤不支持帽子,你的皮肤将会进行变更."
+	}
+	
+	"Override Disabled"
+	{
+		"chi" "你当前的皮肤不支持帽子,你的帽子将会被禁用."
+	}
+
+	"Credits Given"
+	{
+		"chi" "{1} 得到了 {2} 积分."
+	}
+
+	"Betting Won"
+	{
+		"chi" "你打赌赢了. 你赢得了 {1} 积分."
+	}
+
+	"Betting Lost"
+	{
+		"chi" "你在该场打赌中失去了 {1} 积分."
+	}
+
+	"Betting Invalid Team"
+	{
+		"chi" "无效队伍标识."
+	}
+
+	"Betting Placed"
+	{
+		"chi" "你拿出了 {1} 积分来开启该场赌局."
+	}
+
+	"Betting Already Placed"
+	{
+		"chi" "你已为该回合放出了赌局."
+	}
+
+	"Betting Period Over"
+	{
+		"chi" "该回合的赌局已结束."
+	}
+	
+	"Player Resetted"
+	{
+		"chi" "{1} 已被重置."
+	}
+
+	"Player Credits"
+	{
+		"chi" "{HIGHLIGHT}{1}{NORMAL} 拥有 {HIGHLIGHT}{2}{NORMAL} 积分."
+	}
+
+	"Credits Earned For Killing"
+	{
+		"chi" "你击杀了 {HIGHLIGHT}{2}{NORMAL} 并获得了 {HIGHLIGHT}{1}{NORMAL} 积分."
+	}
+
+	"Credits Earned For Playing"
+	{
+		"chi" "你获得了 {HIGHLIGHT}{1}{NORMAL} 点在线积分奖励."
+	}
+
+	"Drop Gift"
+	{
+		"chi" "作为礼物扔出"
+	}
+
+	"Gift Item Picked"
+	{
+		"chi" "你拾到了 {HIGHLIGHT}{1} {2}{NORMAL}."
+	}
+
+	"Gift Credit Picked"
+	{
+		"chi" "你拾到了 {HIGHLIGHT}{1} 积分{NORMAL}."
+	}
+
+	"Credit Gift Dropped"
+	{
+		"chi" "你扔出了 {HIGHLIGHT}{1} 积分{NORMAL}."
+	}
+
+	"Must be Alive"
+	{
+		"chi" "你必须活着才能使用该物品."
+	}
+
+	"TF Wrong Class"
+	{
+		"chi" "该物品是为其他职业准备的."
+	}
+
+	"Help_Back"
+	{
+		"chi" "返回"
+	}
+
+	"Help_Exit"
+	{
+		"chi" "退出"
+	}
+
+	"Jetpack Fuel"
+	{
+		"chi" "[飞行背包] 燃料剩余: {1}"
+	}
+
+	"Health Round Limit"
+	{
+		"chi" "你已达到该局最大购买血包次数."
+	}
+
+	"Respawn Round Limit"
+	{
+		"chi" "你已达到该局最大复活次数"
+	}
+
+	"Jihad Wrong Team"
+	{
+		"chi" "你不能在该队伍中使用炸弹."
+	}
+
+	"Jihad Failed"
+	{
+		"chi" "你的炸弹爆炸失败了."
+	}
+
+	"Godmode Round Limit"
+	{
+		"chi" "You have reached the maximum amount of godmodes you can buy this round."
+	}
+
+	"Godmode Wrong Team"
+	{
+		"chi" "You can't use godmode in this team."
+	}
+
+	// Item type names for chat messages
+	"package"
+	{
+		"chi" "套装"
+	}
+	
+	"hat"
+	{
+		"chi" "帽子"
+	}
+	
+	"tracer"
+	{
+		"chi" "彩色弹道"
+	}
+	
+	"playerskin"
+	{
+		"chi" "人物模型"
+	}
+
+	"zrclass"
+	{
+		"chi" "玩家职业"
+	}
+	
+	"trail"
+	{
+		"chi" "彩色轨迹"
+	}
+	
+	"grenadeskin"
+	{
+		"chi" "手雷皮肤"
+	}
+	
+	"grenadetrail"
+	{
+		"chi" "手雷轨迹"
+	}
+
+	"weaponcolor"
+	{
+		"chi" "武器颜色"
+	}
+
+	"tfunusual"
+	{
+		"chi" "帽子特效"
+	}
+	
+	"tfhatdye"
+	{
+		"chi" "帽子染料"
+	}
+
+	"tfweapon"
+	{
+		"chi" "自定义武器"
+	}
+
+	"tfhead"
+	{
+		"chi" "头部大小"
+	}
+
+	"tfhat"
+	{
+		"chi" "building hat"
+	}
+
+	"tfweaponsize"
+	{
+		"chi" "武器大小"
+	}
+
+	"paintball"
+	{
+		"chi" "子弹"
+	}
+	
+	"watergun"
+	{
+		"chi" "特效"
+	}
+
+	"nametag"
+	{
+		"chi" "名字标签"
+	}
+
+	"namecolor"
+	{
+		"chi" "名字颜色"
+	}
+
+	"msgcolor"
+	{
+		"chi" "聊天颜色"
+	}
+
+	"jetpack"
+	{
+		"chi" "喷射背包"
+	}
+
+	"bunnyhop"
+	{
+		"chi" "技能"
+	}
+
+	"lasersight"
+	{
+		"chi" "激光瞄准"
+	}
+
+	"health"
+	{
+		"chi" "血包"
+	}
+
+	"invisibility"
+	{
+		"chi" "隐身"
+	}
+
+	"speed"
+	{
+		"chi" "加速"
+	}
+
+	"gravity"
+	{
+		"chi" "重力指数"
+	}
+
+	"weapon"
+	{
+		"chi" "武器"
+	}
+
+	"sound"
+	{
+		"chi" "声效"
+	}
+	
+	"command"
+	{
+		"chi" "指令"
+	}
+
+	"jihad"
+	{
+		"chi" "炸弹"
+	}
+
+	"godmode"
+	{
+		"chi" "上帝模式"
+	}
+
+	"knife"
+	{
+		"chi" "刀"
+	}
+
+	"pet"
+	{
+		"chi" "宠物"
+	}
+
+	"weaponskin"
+	{
+		"chi" "武器皮肤"
+	}
+
+	"spray"
+	{
+		"chi" "喷漆"
+	}
+
+	"glow"
+	{
+		"chi" "发光"
+	}
+}
