@@ -7,30 +7,26 @@
 	
 	"Inventory hasnt been fetched"
 	{
-		"ru" "Пожалуйста, подождите. Ваш инвентарь еще не был получен."
+		"ru" "Пожалуйста, подождите. Ваш инвентарь ещё не был получен."
 	}
 	
 	"Item Bought"
 	{
-		"#format" "{1:s}"
 		"ru" "{1}"
 	}
 	
 	"Item Available"
 	{
-		"#format" "{1:s},{2:d}"
 		"ru" "{1} ({2})"
 	}
 
 	"Item Plan Available"
 	{
-		"#format" "{1:s}"
 		"ru" "{1} (Выберите план)"
 	}
 	
 	"Item Equipped"
 	{
-		"#format" "{1:s}"
 		"ru" "{1} [НАДЕТО]"
 	}
 	
@@ -51,7 +47,6 @@
 	
 	"Item Sell"
 	{
-		"#format" "{1:d}"
 		"ru" "Продать за {1}"
 	}
 	
@@ -67,13 +62,11 @@
 	
 	"Title Credits"
 	{
-		"#format" "{1:d}"
 		"ru" "Кредитов: {1}"
 	}
 	
 	"Title Expiration"
 	{
-		"#format" "{1:d},{2:d}"
 		"ru" "Истекает через {1}д {2}ч"
 	}
 
@@ -94,25 +87,21 @@
 	
 	"Chat Bought Item"
 	{
-		"#format" "{1:s},{2:t}"
 		"ru" "Вы купили {HIGHLIGHT}{1} {2}{NORMAL}."
 	}
 	
 	"Chat Sold Item"
 	{
-		"#format" "{1:s},{2:t}"
 		"ru" "Вы продали {HIGHLIGHT}{1} {2}{NORMAL}."
 	}
 	
 	"Chat Gift Item Sent"
 	{
-		"#format" "{1:s},{2:s},{3:t}"
-		"ru" "Вы отправили {HIGHLIGHT}{1}{NORMAL} a {HIGHLIGHT}{2} {3}{NORMAL} в качестве подарка."
+		"ru" "Вы отправили {HIGHLIGHT}{1}{NORMAL} для {HIGHLIGHT}{2} {3}{NORMAL} в качестве подарка."
 	}
 	
 	"Chat Gift Item Received"
 	{
-		"#format" "{1:s},{2:s},{3:t}"
 		"ru" "{HIGHLIGHT}{1}{NORMAL} отправил вам {HIGHLIGHT}{2} {3}{NORMAL} в качестве подарка."
 	}
 	
@@ -143,19 +132,16 @@
 	
 	"Credit Gift Sent"
 	{
-		"#format" "{1:d},{2:s}"
 		"ru" "Вы отправили {HIGHLIGHT}{1}{NORMAL} кредитов игроку {HIGHLIGHT}{2}{NORMAL}.
 	}
 	
 	"Credit Gift Received"
 	{
-		"#format" "{1:d},{2:s}"
 		"ru" "{HIGHLIGHT}{2}{NORMAL} отправил вам {HIGHLIGHT}{1}{NORMAL} кредитов."
 	}
 	
 	"Package Sell"
 	{
-		"#format" "{1:d}"
 		"ru" "Продать этот набор за {1}"
 	}
 	
@@ -181,53 +167,46 @@
 	
 	"Confirm_Buy"
 	{
-		"#format" "{1:s},{2:t}"
 		"ru" "Вы уверены, что хотите купить {1} {2}?"
 	}
 	
 	"Confirm_Sell"
 	{
-		"#format" "{1:s},{2:t},{3:d}"
 		"ru" "Вы уверены, что хотите продать {1} {2} за {3}?"
 	}
 	
 	"Confirm_Gift"
 	{
-		"#format" "{1:s},{2:t},{3:s}"
 		"ru" "Вы уверены, что хотите подарить {1} {2} игроку {3}?"
 	}
 
 	"Confirm_Gift_Drop"
 	{
-		"#format" "{1:s},{2:t}"
 		"ru" "Вы уверены, что хотите выкинуть {1} {2} в качестве подарка?"
 	}
 	
 	"Override Enabled"
 	{
-		"ru" "Ваш текущий скин не поддерживает шляпы. Ваш скин будет изменен."
+		"ru" "Ваш текущий облик не поддерживает шляпы. Ваш облик будет изменён."
 	}
 	
 	"Override Disabled"
 	{
-		"ru" "Ваш скин не поддерживает шляпы. Ваша надетая шапка будет отключена."
+		"ru" "Ваш облик не поддерживает шляпы. Ваша надетая шапка будет отключена."
 	}
 
 	"Credits Given"
 	{
-		"#format" "{1:s}{2:d}"
-		"ru" "Для игрока {1} был выдано {2} кредитов."
+		"ru" "Игроку {1} было выдано {2} кредитов."
 	}
 
 	"Betting Won"
 	{
-		"#format" "{1:d}"
 		"ru" "Ваша ставка была успешной. Вы выиграли {1} кредитов."
 	}
 
 	"Betting Lost"
 	{
-		"#format" "{1:d}"
 		"ru" "Вы потеряли {1} кредитов на ставке."
 	}
 
@@ -238,7 +217,6 @@
 
 	"Betting Placed"
 	{
-		"#format" "{1:d}"
 		"ru" "Вы успешно сделали ставку на {1} кредитов."
 	}
 
@@ -254,25 +232,21 @@
 	
 	"Player Resetted"
 	{
-		"#format" "{1:s}"
 		"ru" "{1} был сброшен."
 	}
 
 	"Player Credits"
 	{
-		"#format" "{1:s},{2:d}"
 		"ru" "{HIGHLIGHT}{1}{NORMAL} имеет {HIGHLIGHT}{2}{NORMAL} кредитов."
 	}
 
 	"Credits Earned For Killing"
 	{
-		"#format" "{1:d},{2:s}"
 		"ru" "Вы получили {HIGHLIGHT}{1}{NORMAL} кредитов за убийство {HIGHLIGHT}{2}{NORMAL}."
 	}
 
 	"Credits Earned For Playing"
 	{
-		"#format" "{1:d}"
 		"ru" "Вы получили {HIGHLIGHT}{1}{NORMAL} кредиты за игру на сервере."
 	}
 
@@ -283,19 +257,16 @@
 
 	"Gift Item Picked"
 	{
-		"#format" "{1:s},{2:t}"
 		"ru" "Вы подобрали {HIGHLIGHT}{1} {2}{NORMAL}."
 	}
 
 	"Gift Credit Picked"
 	{
-		"#format" "{1:d}"
 		"ru" "Вы подобрали {HIGHLIGHT}{1} кредитов{NORMAL}."
 	}
 
 	"Credit Gift Dropped"
 	{
-		"#format" "{1:d}"
 		"ru" "Вы выбросили {HIGHLIGHT}{1} кредитов{NORMAL} в качестве подарка."
 	}
 
@@ -321,18 +292,17 @@
 
 	"Jetpack Fuel"
 	{
-		"#format" "{1:.1f}"
 		"ru" "[Jetpack] Топливо: {1}"
 	}
 
 	"Health Round Limit"
 	{
-		"ru" "Вы достигли максимального количества аптечек, которые вы можете купить в этом раунде."
+		"ru" "Вы достигли макс. кол-ва аптечек, которые вы можете купить в этом раунде."
 	}
 
 	"Respawn Round Limit"
 	{
-		"ru" "Вы достигли максимального количества возрождений, которое вы можете купить в этом раунде."
+		"ru" "Вы достигли макс. кол-ва возрождений, которое вы можете купить в этом раунде."
 	}
 
 	"Jihad Wrong Team"
@@ -347,7 +317,7 @@
 
 	"Godmode Round Limit"
 	{
-		"ru" "Вы достигли максимального количества режимов бога, которые вы можете купить в этом раунде."
+		"ru" "Вы достигли макс. кол-ва режимов бога, которые вы можете купить в этом раунде."
 	}
 
 	"Godmode Wrong Team"
@@ -373,7 +343,7 @@
 	
 	"playerskin"
 	{
-		"ru" "скин игрока"
+		"ru" "облик игрока"
 	}
 
 	"zrclass"
@@ -388,7 +358,7 @@
 	
 	"grenadeskin"
 	{
-		"ru" "скин гранаты"
+		"ru" "облик гранаты"
 	}
 	
 	"grenadetrail"
@@ -528,7 +498,7 @@
 
 	"weaponskin"
 	{
-		"ru" "скин оружия"
+		"ru" "облик оружия"
 	}
 
 	"spray"
