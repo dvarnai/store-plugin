@@ -37,7 +37,6 @@
 
 	"Trade Confirm"
 	{
-		"#format" "{1:N}"
 		"chi" "你想要跟 {1} 进行交易吗?"
 	}
 
@@ -48,7 +47,6 @@
 
 	"Trade Refused"
 	{
-		"#format" "{1:N}"
 		"chi" "{1} 拒绝了你的交易请求."
 	}
 
@@ -59,7 +57,6 @@
 
 	"Trade Title"
 	{
-		"#format" "{1:N},{2:d}"
 		"chi" "你正与 {1} 进行交易\n-----------------------------\n要出价请输入 !offer <数量>\n你的出价为 {2} 积分"
 	}
 
@@ -75,19 +72,16 @@
 
 	"Confirm_Offer_Item"
 	{
-		"#format" "{1:s},{2:s}"
 		"chi" "你想对 {1} {2} 进行竞价吗?"
 	}
 
 	"Confirm_Trade_Item"
 	{
-		"#format" "{1:s},{2:s}"
 		"chi" "你想对 {1} {2} 进行交易吗?"
 	}
 
 	"Ready"
 	{
-		"#format" "{1:s}"
 		"chi" "准备 [{1}]"
 	}
 
@@ -113,7 +107,6 @@
 
 	"Partner Credit Offer"
 	{
-		"#format" "{1:d}"
 		"chi" "你的搭档提供了 {1} 积分(s)"
 	}
 
@@ -124,7 +117,6 @@
 
 	"Ready Timer"
 	{
-		"#format" "{1:d}"
 		"chi" "交易将于 {1} 秒后结束..."
 	}
 

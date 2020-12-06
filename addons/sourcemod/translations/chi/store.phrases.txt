@@ -3,366 +3,281 @@
 	"You dont have permission"
 	{
 		"chi" "你没有权限来运行该指令."
-		"hu" "Nincs jogosultságod ehhez."
 	}
 	
 	"Inventory hasnt been fetched"
 	{
 		"chi" "请稍等. 你的库存还未读取完毕."
-		"hu" "Várj egy kicsit. A tárgyaid még nem töltöttek be."
 	}
 	
 	"Item Bought"
 	{
-		"#format" "{1:s}"
 		"chi" "{1}"
-		"hu" "{1}"
 	}
 	
 	"Item Available"
 	{
-		"#format" "{1:s},{2:d}"
 		"chi" "{1} ({2})"
-		"hu" "{1} ({2})"
 	}
 
 	"Item Plan Available"
 	{
-		"#format" "{1:s}"
 		"chi" "{1} (选择你要购买的时限)"
-		"hu" "{1} (Válassz időszakot)"
 	}
 	
 	"Item Equipped"
 	{
-		"#format" "{1:s}"
 		"chi" "{1} [已装备]"
-		"hu" "{1} [FELVÉVE]"
 	}
 	
 	"Item Equip"
 	{
 		"chi" "装备该物品"
-		"hu" "Tárgy felvétele"
 	}
 	
 	"Item Unequip"
 	{
 		"chi" "卸下该物品"
-		"hu" "Tárgy levétele"
 	}
 	
 	"Item Use"
 	{
 		"chi" "使用该物品"
-		"hu" "Tárgy használata"
 	}
 	
 	"Item Sell"
 	{
-		"#format" "{1:d}"
 		"chi" "卖出该物品后你将得到 {1} 积分"
-		"hu" "Eladás {1} kreditért"
 	}
 	
 	"Item Gift"
 	{
 		"chi" "赠送该物品"
-		"hu" "Tárgy elajándékozása"
 	}
 	
 	"Title Store"
 	{
 		"chi" "商店菜单"
-		"hu" "Bolt Menü"
 	}
 	
 	"Title Credits"
 	{
-		"#format" "{1:d}"
 		"chi" "积分: {1}"
-		"hu" "Kreditek: {1}"
 	}
 	
 	"Title Expiration"
 	{
-		"#format" "{1:d},{2:d}"
 		"chi" "将在 {1}天 {2}小时后过期"
-		"hu" "Lejár {1}n {2}ó múlva"
 	}
 
 	"Title Gift"
 	{
 		"chi" "选择一名玩家以赠送该物品"
-		"hu" "Játékos kiválasztása ajándékozáshoz"
 	}
 	
 	"Gift Player Left"
 	{
 		"chi" "你选择的玩家已退出服务器."
-		"hu" "A kiválasztott játékos már elhagyta a játékot."
 	}
 	
 	"Gift No Players"
 	{
 		"chi" "现在没有玩家可以赠送."
-		"hu" "Nincs senki akinek odatudnád adni ezt a tárgyat."
 	}
 	
 	"Chat Bought Item"
 	{
-		"#format" "{1:s},{2:t}"
 		"chi" "你购买了 {HIGHLIGHT}{1} {2}{NORMAL}."
-		"hu" "A következőt vetted: {HIGHLIGHT}{1} {2}{NORMAL}."
 	}
 	
 	"Chat Sold Item"
 	{
-		"#format" "{1:s},{2:t}"
 		"chi" "你卖出了 {HIGHLIGHT}{1} {2}{NORMAL}."
-		"hu" "A következőt adtad el: {HIGHLIGHT}{1} {2}{NORMAL}."
 	}
 	
 	"Chat Gift Item Sent"
 	{
-		"#format" "{1:s},{2:s},{3:t}"
 		"chi" "你把 {HIGHLIGHT}{2} {3}{NORMAL} 作为礼物送给了 {HIGHLIGHT}{1}{NORMAL} ."
-		"hu" "A következőt küldted: {HIGHLIGHT}{2} {3}{NORMAL} neki: {HIGHLIGHT}{1}{NORMAL}."
 	}
 	
 	"Chat Gift Item Received"
 	{
-		"#format" "{1:s},{2:s},{3:t}"
 		"chi" "{HIGHLIGHT}{1}{NORMAL} 把 {HIGHLIGHT}{2} {3}{NORMAL} 作为礼物送给了你."
-		"hu" "{HIGHLIGHT}{1}{NORMAL} a következőt küldte neked: {HIGHLIGHT}{2} {3}{NORMAL}."
 	}
 	
 	"Credit Gift Disabled"
 	{
 		"chi" "该服务器禁止赠送积分."
-		"hu" "A szerveren a kreditek ajándékozása ki van kapcsolva."
 	}
 	
 	"Credit Invalid Amount"
 	{
 		"chi" "你输入了一个无效数值."
-		"hu" "Hibás összeget adtál meg."
 	}
 	
 	"Credit Not Enough"
 	{
 		"chi" "你没有足够的积分来购买该模型."
-		"hu" "Nincs elég kredited ehhez."
 	}
 
 	"Credit Too Many Matches"
 	{
 		"chi" "找到不止一个玩家符合该名称."
-		"hu" "Több mint egy játékos van ilyen névvel."
 	}
 	
 	"Credit No Match"
 	{
 		"chi" "找不到玩家."
-		"hu" "Nincs ilyen játékos."
 	}
 	
 	"Credit Gift Sent"
 	{
-		"#format" "{1:d},{2:s}"
 		"chi" "你赠送了 {HIGHLIGHT}{1}{NORMAL} 积分给 {HIGHLIGHT}{2}{NORMAL}.
-		"hu" "{HIGHLIGHT}{1}{NORMAL} kreditet küldtél neki: {HIGHLIGHT}{2}{NORMAL}."
 	}
 	
 	"Credit Gift Received"
 	{
-		"#format" "{1:d},{2:s}"
 		"chi" "{HIGHLIGHT}{2}{NORMAL} 赠送了 {HIGHLIGHT}{1}{NORMAL} 积分给你."
-		"hu" "{HIGHLIGHT}{2}{NORMAL} {HIGHLIGHT}{1}{NORMAL} kreditet küldött neked."
 	}
 	
 	"Package Sell"
 	{
-		"#format" "{1:d}"
 		"chi" "卖出该包裹后你将获得 {1} 积分"
-		"hu" "Csomag eladása {1} kreditért"
 	}
 	
 	"Package Gift"
 	{
 		"chi" "赠送该包裹"
-		"hu" "Csomag elajándékozása"
 	}
 	
 	"PlayerSkins Settings Changed"
 	{
 		"chi" "新的设定将会在下一次复活时生效."
-		"hu" "Az új beállításaid a következő élettől fognak működni."
 	}
 	
 	"Confirm_Yes"
 	{
 		"chi" "好的"
-		"hu" "Igen"
 	}
 	
 	"Confirm_No"
 	{
 		"chi" "不好"
-		"hu" "Nem"
 	}
 	
 	"Confirm_Buy"
 	{
-		"#format" "{1:s},{2:t}"
 		"chi" "你确定你想要购买 {1} {2}?"
-		"hu" "Biztosan meg akarod venni a következőt: {1} {2}?"
 	}
 	
 	"Confirm_Sell"
 	{
-		"#format" "{1:s},{2:t},{3:d}"
 		"chi" "你确定你想要售出 {1} {2} ?获得积分: {3}?"
-		"hu" "Biztosan el akarod adni a következőt: {1} {2}?"
 	}
 	
 	"Confirm_Gift"
 	{
-		"#format" "{1:s},{2:t},{3:s}"
 		"chi" "你确定你想要赠送 {1} {2} 给 {3}?"
-		"hu" "Biztosan el akarod ajándékozni a következőt: {1} {2} neki: {3}?"
 	}
 
 	"Confirm_Gift_Drop"
 	{
-		"#format" "{1:s},{2:t}"
 		"chi" "你确定你想要把 {1} {2} 作为礼物扔出?"
-		"hu" "Biztosan el akarod ajándékozni a következőt: {1} {2}?"
 	}
 	
 	"Override Enabled"
 	{
 		"chi" "你当前的皮肤不支持帽子,你的皮肤将会进行变更."
-		"hu" "A jelenlegi skined nem támogatja a sapkákat. A skined megváltoztatjuk, hogy tudd viselni a sapkád."
 	}
 	
 	"Override Disabled"
 	{
 		"chi" "你当前的皮肤不支持帽子,你的帽子将会被禁用."
-		"hu" "A jelenlegi skined nem támogatja a sapkákat. A sapkád nem tudod felvenni."
 	}
 
 	"Credits Given"
 	{
-		"#format" "{1:s}{2:d}"
 		"chi" "{1} 得到了 {2} 积分."
-		"hu" "{1} {2} kreditet kapott."
 	}
 
 	"Betting Won"
 	{
-		"#format" "{1:d}"
 		"chi" "你打赌赢了. 你赢得了 {1} 积分."
-		"hu" "Sikeres volt a fogadásod. Nyertél {1} kreditet."
 	}
 
 	"Betting Lost"
 	{
-		"#format" "{1:d}"
 		"chi" "你在该场打赌中失去了 {1} 积分."
-		"hu" "{1} kreditet vesztettél a fogadáson."
 	}
 
 	"Betting Invalid Team"
 	{
 		"chi" "无效队伍标识."
-		"hu" "Helytelen csapat azonosító."
 	}
 
 	"Betting Placed"
 	{
-		"#format" "{1:d}"
 		"chi" "你拿出了 {1} 积分来开启该场赌局."
-		"hu" "Sikeresen fogadtál {1} kredit értékben."
 	}
 
 	"Betting Already Placed"
 	{
 		"chi" "你已为该回合放出了赌局."
-		"hu" "Ebben a körben már fogadtál."
 	}
 
 	"Betting Period Over"
 	{
 		"chi" "该回合的赌局已结束."
-		"hu" "Ebben a körben már nem fogadhatsz."
 	}
 	
 	"Player Resetted"
 	{
-		"#format" "{1:s}"
 		"chi" "{1} 已被重置."
-		"hu" "{1} nullázva lett."
 	}
 
 	"Player Credits"
 	{
-		"#format" "{1:s},{2:d}"
 		"chi" "{HIGHLIGHT}{1}{NORMAL} 拥有 {HIGHLIGHT}{2}{NORMAL} 积分."
-		"hu" "{HIGHLIGHT}{1}{NORMAL} {HIGHLIGHT}{2}{NORMAL} kredittel rendelkezik."
 	}
 
 	"Credits Earned For Killing"
 	{
-		"#format" "{1:d},{2:s}"
 		"chi" "你击杀了 {HIGHLIGHT}{2}{NORMAL} 并获得了 {HIGHLIGHT}{1}{NORMAL} 积分."
-		"hu" "{HIGHLIGHT}{2}{NORMAL} megölésével {HIGHLIGHT}{1}{NORMAL} kreditet szereztél."
 	}
 
 	"Credits Earned For Playing"
 	{
-		"#format" "{1:d}"
 		"chi" "你获得了 {HIGHLIGHT}{1}{NORMAL} 点在线积分奖励."
-		"hu" "{HIGHLIGHT}{1}{NORMAL} kreditet szereztél az itt töltött időért.
 	}
 
 	"Drop Gift"
 	{
 		"chi" "作为礼物扔出"
-		"hu" "Ajándékcsomagként eldobás"
 	}
 
 	"Gift Item Picked"
 	{
-		"#format" "{1:s},{2:t}"
 		"chi" "你拾到了 {HIGHLIGHT}{1} {2}{NORMAL}."
-		"hu" "A következőt vetted fel {HIGHLIGHT}{1} {2}{NORMAL}."
 	}
 
 	"Gift Credit Picked"
 	{
-		"#format" "{1:d}"
 		"chi" "你拾到了 {HIGHLIGHT}{1} 积分{NORMAL}."
-		"hu" "{HIGHLIGHT}{1} kreditet{NORMAL} vettél fel."
 	}
 
 	"Credit Gift Dropped"
 	{
-		"#format" "{1:d}"
 		"chi" "你扔出了 {HIGHLIGHT}{1} 积分{NORMAL}."
-		"hu" "{HIGHLIGHT}{1} kreditet{NORMAL} ajándékoztál el."
 	}
 
 	"Must be Alive"
 	{
 		"chi" "你必须活着才能使用该物品."
-		"hu" "Ez a parancs halottként nem használható."
 	}
 
 	"TF Wrong Class"
 	{
 		"chi" "该物品是为其他职业准备的."
-		"hu" "Ez a tárgy egy másik kaszthoz való."
 	}
 
 	"Help_Back"
@@ -377,267 +292,222 @@
 
 	"Jetpack Fuel"
 	{
-		"#format" "{1:.1f}"
 		"chi" "[飞行背包] 燃料剩余: {1}"
-		"hu" "[Jetpack] Üzemanyag: {1}"
 	}
 
 	"Health Round Limit"
 	{
 		"chi" "你已达到该局最大购买血包次数."
-		"hu" "Ebben a körben már elég életet vettél."
 	}
 
 	"Respawn Round Limit"
 	{
 		"chi" "你已达到该局最大复活次数"
-		"hu" "Ebben a körben már elég újraéledést vettél."
 	}
 
 	"Jihad Wrong Team"
 	{
 		"chi" "你不能在该队伍中使用炸弹."
-		"hu" "Ebben a csapatban nem használhatod a bombát."
 	}
 
 	"Jihad Failed"
 	{
 		"chi" "你的炸弹爆炸失败了."
-		"hu" "A robbantás sikertelen volt."
 	}
 
 	"Godmode Round Limit"
 	{
 		"chi" "You have reached the maximum amount of godmodes you can buy this round."
-		"hu" "Ebben a körben már elég örök életet vettél."
 	}
 
 	"Godmode Wrong Team"
 	{
 		"chi" "You can't use godmode in this team."
-		"hu" "Ebben a csapatban nem használhatod az örök életet."
 	}
 
 	// Item type names for chat messages
 	"package"
 	{
 		"chi" "套装"
-		"hu" "csomag"
 	}
 	
 	"hat"
 	{
 		"chi" "帽子"
-		"hu" "sapka"
 	}
 	
 	"tracer"
 	{
 		"chi" "彩色弹道"
-		"hu" "lézer"
 	}
 	
 	"playerskin"
 	{
 		"chi" "人物模型"
-		"hu" "játékos skin"
 	}
 
 	"zrclass"
 	{
 		"chi" "玩家职业"
-		"hu" "játékos típus"
 	}
 	
 	"trail"
 	{
 		"chi" "彩色轨迹"
-		"hu" "csík"
 	}
 	
 	"grenadeskin"
 	{
 		"chi" "手雷皮肤"
-		"hu" "gránát skin"
 	}
 	
 	"grenadetrail"
 	{
 		"chi" "手雷轨迹"
-		"hu" "gránát csík"
 	}
 
 	"weaponcolor"
 	{
 		"chi" "武器颜色"
-		"hu" "fegyver szín"
 	}
 
 	"tfunusual"
 	{
 		"chi" "帽子特效"
-		"hu" "sapka effekt"
 	}
 	
 	"tfhatdye"
 	{
 		"chi" "帽子染料"
-		"hu" "sapka szín"
 	}
 
 	"tfweapon"
 	{
 		"chi" "自定义武器"
-		"hu" "saját fegyver"
 	}
 
 	"tfhead"
 	{
 		"chi" "头部大小"
-		"hu" "fej méret"
 	}
 
 	"tfhat"
 	{
 		"chi" "building hat"
-		"hu" "építmény sapka"
 	}
 
 	"tfweaponsize"
 	{
 		"chi" "武器大小"
-		"hu" "fegyver méret"
 	}
 
 	"paintball"
 	{
 		"chi" "子弹"
-		"hu" "golyók"
 	}
 	
 	"watergun"
 	{
 		"chi" "特效"
-		"hu" "effekt"
 	}
 
 	"nametag"
 	{
 		"chi" "名字标签"
-		"hu" "név tag"
 	}
 
 	"namecolor"
 	{
 		"chi" "名字颜色"
-		"hu" "név szín"
 	}
 
 	"msgcolor"
 	{
 		"chi" "聊天颜色"
-		"hu" "üzenet szín"
 	}
 
 	"jetpack"
 	{
 		"chi" "喷射背包"
-		"hu" "rakéta"
 	}
 
 	"bunnyhop"
 	{
 		"chi" "技能"
-		"hu" "képesség"
 	}
 
 	"lasersight"
 	{
 		"chi" "激光瞄准"
-		"hu" "lézer"
 	}
 
 	"health"
 	{
 		"chi" "血包"
-		"hu" "csomag"
 	}
 
 	"invisibility"
 	{
 		"chi" "隐身"
-		"hu" "képesség"
 	}
 
 	"speed"
 	{
 		"chi" "加速"
-		"hu" "képesség"
 	}
 
 	"gravity"
 	{
 		"chi" "重力指数"
-		"hu" "képesség"
 	}
 
 	"weapon"
 	{
 		"chi" "武器"
-		"hu" "fegyver"
 	}
 
 	"sound"
 	{
 		"chi" "声效"
-		"hu" "hang"
 	}
 	
 	"command"
 	{
 		"chi" "指令"
-		"hu" ""
 	}
 
 	"jihad"
 	{
 		"chi" "炸弹"
-		"hu" "bomba"
 	}
 
 	"godmode"
 	{
 		"chi" "上帝模式"
-		"hu" "örök élet"
 	}
 
 	"knife"
 	{
 		"chi" "刀"
-		"hu" "kés"
 	}
 
 	"pet"
 	{
 		"chi" "宠物"
-		"hu" "állat"
 	}
 
 	"weaponskin"
 	{
 		"chi" "武器皮肤"
-		"hu" "fegyver skin"
 	}
 
 	"spray"
 	{
 		"chi" "喷漆"
-		"hu" "spray"
 	}
 
 	"glow"
 	{
 		"chi" "发光"
-		"hu" "ragyogás"
 	}
 }
